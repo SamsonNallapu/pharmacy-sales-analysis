@@ -1,0 +1,1225 @@
+transaction_id,date,product_name,category,quantity,unit_price,payment_type
+TXN11074,01-Feb-2025,atorvastatin 20mg,Cardiovascular,1,2.67,NHS Prescription
+TXN10740,23-Jun-2025,Paracetamol 500mg,Pain Relief,1,£1.17,PRIVATE PRESCRIPTION
+TXN10165,2025-07-19,AMOXICILLIN 250MG,Antibiotics,1,3.49,NHS PRESCRIPTION
+TXN10051,30-May-2025,atorvastatin 20mg,Cardiovascular,1,2.96,NHS Prescription
+TXN10071,05-Mar-2025,Metformin 500mg,diabetes,1,£1.88,OTC Sale
+TXN10691,24/03/2025,ATORVASTATIN 20MG,Cardiovascular,1,2.94,nhs prescription
+TXN10359,2025-08-31,Atorvastatin 20mg,Cardiovascular,1,2.83,NHS Prescription
+TXN10806,06/07/2025,VITAMIN D 1000IU,Supplements,2,3.76,OTC Sale
+TXN10058,2025-11-28,Ibuprofen 200mg,Pain Relief,1,£1.49,OTC Sale
+TXN11011,2025-02-10,Cetirizine 10mg,Allergy,3,1.24,NHS Prescription
+TXN10893,2025-07-15,Amoxicillin 250mg,Antibiotics,1,3.21,OTC Sale
+TXN11176,25/05/2025,Amoxicillin 250mg,Antibiotics,2,£3.2,PRIVATE PRESCRIPTION
+TXN10510,13/10/2025,Paracetamol 500mg,Pain Relief,3,1.19,NHS Prescription
+TXN10065,12/09/2025,Omeprazole 20mg,  Gastro ,1,£2.08,Private Prescription
+TXN10473,10-Jun-2025,Ibuprofen 200mg,Pain Relief,1,1.59,NHS Prescription
+TXN10647,17/11/2025,Cetirizine 10mg,Allergy,2,£1.27,OTC Sale
+TXN11022,17-Oct-2025,Metformin 500mg,Diabetes,1,£2.07,NHS PRESCRIPTION
+TXN10943,15-Aug-2025,Paracetamol 500mg,PAIN RELIEF,1,£1.21,Private Prescription
+TXN10387,2025-10-06,LORATADINE 10MG,Allergy,1,1.38,Private Prescription
+TXN10060,2025-10-03,Atorvastatin 20mg,cardiovascular,1,2.89,PRIVATE PRESCRIPTION
+TXN10227,23/07/2025,Cetirizine 10mg,allergy,1,1.2,private prescription
+TXN10954,10/01/2025,Atorvastatin 20mg,Cardiovascular,1,2.98,NHS Prescription
+TXN11104,2025-02-21,Omeprazole 20mg,Gastro,2,£2.1,Private Prescription
+TXN10145,11-Jul-2025,Salbutamol Inhaler,Respiratory,1,£6.54,Private Prescription
+TXN10929,22/04/2025,Omeprazole 20mg,,1,2.12,  NHS Prescription 
+TXN10986,31/05/2025,atorvastatin 20mg,CARDIOVASCULAR,1,2.84,NHS Prescription
+TXN11179,04/03/2025,METFORMIN 500MG,Diabetes,1,2.01,OTC SALE
+TXN10837,13-Jan-2025,Metformin 500mg,Diabetes,1,£1.89,Private Prescription
+TXN11174,18/07/2025,Loratadine 10mg,ALLERGY,2,£1.4,PRIVATE PRESCRIPTION
+TXN10188,23/08/2025,Ibuprofen 200mg,Pain Relief,2,1.39,OTC Sale
+TXN10959,2025-09-02,Metformin 500mg,Diabetes,1,£1.91,Private Prescription
+TXN10648,03-Sep-2025,Amoxicillin 250mg,Antibiotics,1,£3.43,NHS Prescription
+TXN10104,04/06/2025,Omeprazole 20mg,Gastro,1,2.25,OTC SALE
+TXN11084,2025-02-09,Metformin 500mg,,1,,OTC SALE
+TXN10039,20-Mar-2025,  Vitamin D 1000IU ,Supplements,1,£3.62,NHS Prescription
+TXN10910,07-Apr-2025,Atorvastatin 20mg,CARDIOVASCULAR,1,3.07,Private Prescription
+TXN10256,04/08/2025,ATORVASTATIN 20MG,Cardiovascular,3,2.72,OTC Sale
+TXN10886,2025-12-07,Omeprazole 20mg,Gastro,2,2.13,OTC Sale
+TXN11129,06/07/2025,Paracetamol 500mg,pain relief,1,£1.15,OTC Sale
+TXN11100,30/05/2025,Metformin 500mg,diabetes,1,£1.9,OTC Sale
+TXN10205,19-Mar-2025,Omeprazole 20mg,GASTRO,3,2.17,  OTC Sale 
+TXN10589,22/11/2025,Atorvastatin 20mg,Cardiovascular,2,,OTC Sale
+TXN10245,31-Jul-2025,Cetirizine 10mg,ALLERGY,3,£1.37,NHS Prescription
+TXN10146,2025-01-02,Omeprazole 20mg,Gastro,4,2.22,OTC Sale
+TXN10122,15/10/2025,METFORMIN 500MG,Diabetes,1,£1.88,NHS Prescription
+TXN10601,2025-03-29,Omeprazole 20mg,gastro,2,£2.31,OTC SALE
+TXN10014,02/10/2025,Omeprazole 20mg,Gastro,1,2.14,NHS Prescription
+TXN10298,2025-07-09,Salbutamol Inhaler,Respiratory,2,7.09,PRIVATE PRESCRIPTION
+TXN11143,27/12/2025,Metformin 500mg,  Diabetes ,1,1.82,NHS PRESCRIPTION
+TXN10537,12/10/2025,Salbutamol Inhaler,Respiratory,2,6.94,Private Prescription
+TXN10705,28-Aug-2025,Omeprazole 20mg,Gastro,1,2.06,OTC SALE
+TXN10000,13-Jan-2025,IBUPROFEN 200MG,PAIN RELIEF,1,1.4,NHS Prescription
+TXN10583,07-Dec-2025,Paracetamol 500mg,PAIN RELIEF,2,1.08,NHS PRESCRIPTION
+TXN10351,26-Oct-2025,Salbutamol Inhaler,Respiratory,,£6.23,Private Prescription
+TXN10911,22/10/2025,Vitamin D 1000IU,Supplements,1,£3.66,NHS Prescription
+TXN10194,16/07/2025,vitamin d 1000iu,Supplements,4,£3.4,NHS Prescription
+TXN10569,06-Nov-2025,SALBUTAMOL INHALER,Respiratory,1,7.03,OTC Sale
+TXN10416,12/07/2025,Vitamin D 1000IU,  Supplements ,1,£3.33,Private Prescription
+TXN10147,05/12/2025,PARACETAMOL 500MG,,2,£1.19,nhs prescription
+TXN10228,16-Oct-2025,Cetirizine 10mg,allergy,1,1.21,OTC Sale
+TXN11038,17/03/2025,Loratadine 10mg,Allergy,3,1.35,OTC Sale
+TXN10449,26/12/2025,Metformin 500mg,Diabetes,1,£1.84,OTC Sale
+TXN10738,02/06/2025,Metformin 500mg,Diabetes,1,£1.98,NHS Prescription
+TXN11089,07/04/2025,Salbutamol Inhaler,  Respiratory ,2,6.41,OTC Sale
+TXN10809,06-Apr-2025,Ibuprofen 200mg,Pain Relief,1,£1.42,Private Prescription
+TXN10404,01/11/2025,PARACETAMOL 500MG,Pain Relief,3,£1.14,NHS Prescription
+TXN10992,06-Dec-2025,Omeprazole 20mg,GASTRO,1,2.05,NHS Prescription
+TXN10056,2025-09-21,Salbutamol Inhaler,Respiratory,2,£6.58,NHS Prescription
+TXN10976,20/06/2025,Amoxicillin 250mg,Antibiotics,2,3.3,OTC Sale
+TXN10518,2025-01-12,Amoxicillin 250mg,ANTIBIOTICS,3,3.16,OTC Sale
+TXN10281,15-Jul-2025,Atorvastatin 20mg,Cardiovascular,2,£2.73,OTC Sale
+TXN11120,17/02/2025,Metformin 500mg,DIABETES,2,,OTC Sale
+TXN10690,09/02/2025,Ibuprofen 200mg,Pain Relief,2,£1.42,Private Prescription
+TXN10715,2025-11-24,Metformin 500mg,Diabetes,1,1.87,OTC SALE
+TXN10677,25-Jun-2025,Salbutamol Inhaler,Respiratory,1,6.58,NHS Prescription
+TXN11172,2025-03-07,Salbutamol Inhaler,RESPIRATORY,2,£6.86,NHS Prescription
+TXN10442,17-Apr-2025,Amoxicillin 250mg,Antibiotics,1,£3.51,OTC Sale
+TXN10819,2025-07-16,metformin 500mg,Diabetes,-1,2.08,PRIVATE PRESCRIPTION
+TXN10111,11-Nov-2025,Loratadine 10mg,Allergy,1,£1.42,OTC Sale
+TXN10980,04/05/2025,CETIRIZINE 10MG,,1,1.31,OTC SALE
+TXN10127,13-Jun-2025,Vitamin D 1000IU,Supplements,1,3.77,Private Prescription
+TXN11020,04/02/2025,ATORVASTATIN 20MG,  Cardiovascular ,1,£2.87,OTC Sale
+TXN10315,31-Aug-2025,Amoxicillin 250mg,Antibiotics,1,3.52,NHS Prescription
+TXN10720,2025-04-11,amoxicillin 250mg,Antibiotics,1,3.15,Private Prescription
+TXN10497,26-Aug-2025,Loratadine 10mg,Allergy,1,1.27,PRIVATE PRESCRIPTION
+TXN10875,17/07/2025,Paracetamol 500mg,Pain Relief,,£1.08,private prescription
+TXN10125,19-Oct-2025,  Paracetamol 500mg ,Pain Relief,1,1.06,Private Prescription
+TXN11153,28-May-2025,Loratadine 10mg,Allergy,3,1.28,NHS Prescription
+TXN10741,09/11/2025,Vitamin D 1000IU,SUPPLEMENTS,1,3.54,Private Prescription
+TXN10672,17-Sep-2025,SALBUTAMOL INHALER,Respiratory,1,6.84,  NHS Prescription 
+TXN10417,15-Mar-2025,OMEPRAZOLE 20MG,Gastro,1,£2.07,Private Prescription
+TXN10488,2025-12-30,Loratadine 10mg,Allergy,1,1.3,Private Prescription
+TXN10923,2025-07-29,IBUPROFEN 200MG,Pain Relief,,,NHS Prescription
+TXN10744,02-May-2025,Paracetamol 500mg,PAIN RELIEF,1,1.11,NHS PRESCRIPTION
+TXN10455,11/09/2025,Amoxicillin 250mg,Antibiotics,2,£3.06,NHS Prescription
+TXN10164,09-Sep-2025,Atorvastatin 20mg,  Cardiovascular ,1,2.84,private prescription
+TXN10933,13-Nov-2025,Metformin 500mg,DIABETES,1,1.94,NHS Prescription
+TXN10098,17-Sep-2025,IBUPROFEN 200MG,pain relief,2,£1.39,NHS Prescription
+TXN10423,23/04/2025,Loratadine 10mg,allergy,2,1.36,NHS Prescription
+TXN10935,13/02/2025,LORATADINE 10MG,Allergy,1,£1.29,Private Prescription
+TXN10355,17-Nov-2025,Vitamin D 1000IU,supplements,1,3.41,NHS Prescription
+TXN10495,2025-07-18,Amoxicillin 250mg,Antibiotics,1,£3.35,Private Prescription
+TXN11057,15/10/2025,Vitamin D 1000IU,,1,3.67,NHS Prescription
+TXN10849,15/09/2025,  Metformin 500mg ,Diabetes,2,£2.02,Private Prescription
+TXN11025,12-Nov-2025,Loratadine 10mg,Allergy,3,1.29,OTC Sale
+TXN10513,17-May-2025,Ibuprofen 200mg,Pain Relief,2,£1.51,Private Prescription
+TXN10394,2025-05-18,Metformin 500mg,Diabetes,3,£1.81,OTC Sale
+TXN10430,2025-06-14,Omeprazole 20mg,Gastro,3,£2.13,OTC Sale
+TXN10289,17-Dec-2025,Vitamin D 1000IU,Supplements,2,3.41,NHS Prescription
+TXN10881,2025-08-04,Metformin 500mg,diabetes,1,£2.07,NHS PRESCRIPTION
+TXN10097,17/02/2025,Metformin 500mg,diabetes,2,£1.81,Private Prescription
+TXN10682,04/12/2025,Cetirizine 10mg,ALLERGY,1,1.3,PRIVATE PRESCRIPTION
+TXN11159,09/10/2025,Metformin 500mg,Diabetes,1,1.99,Private Prescription
+TXN10438,15-Aug-2025,VITAMIN D 1000IU,,2,£3.8,PRIVATE PRESCRIPTION
+TXN10869,22-Dec-2025,  Amoxicillin 250mg ,Antibiotics,2,3.43,OTC Sale
+TXN11103,2025-01-22,Paracetamol 500mg,Pain Relief,3,£1.19,PRIVATE PRESCRIPTION
+TXN10409,2025-07-16,Paracetamol 500mg,Pain Relief,1,£1.21,PRIVATE PRESCRIPTION
+TXN10265,11/10/2025,Paracetamol 500mg,Pain Relief,2,1.13,OTC Sale
+TXN10202,06-Jul-2025,Atorvastatin 20mg,Cardiovascular,3,£3.06,Private Prescription
+TXN11157,2025-08-14,Amoxicillin 250mg,Antibiotics,2,£3.26,NHS Prescription
+TXN10803,2025-06-29,METFORMIN 500MG,diabetes,1,2.0,OTC Sale
+TXN10868,30-Nov-2025,Ibuprofen 200mg,PAIN RELIEF,2,1.38,NHS Prescription
+TXN10319,16/08/2025,CETIRIZINE 10MG,  Allergy ,2,£1.27,nhs prescription
+TXN10398,24-May-2025,Vitamin D 1000IU,Supplements,3,£3.38,NHS Prescription
+TXN10761,2025-10-14,loratadine 10mg,Allergy,1,£1.33,Private Prescription
+TXN10475,2025-08-05,Omeprazole 20mg,Gastro,1,2.3,OTC Sale
+TXN10156,24/08/2025,Atorvastatin 20mg,Cardiovascular,2,2.72,NHS Prescription
+TXN10967,26/08/2025,Loratadine 10mg,allergy,2,1.41,Private Prescription
+TXN10999,2025-04-08,Cetirizine 10mg,Allergy,2,£1.29,NHS Prescription
+TXN10281,15-Jul-2025,Atorvastatin 20mg,Cardiovascular,2,£2.73,OTC Sale
+TXN10365,10-Nov-2025,Metformin 500mg,diabetes,1,2.02,NHS Prescription
+TXN10073,2025-03-11,Metformin 500mg,Diabetes,1,2.02,OTC Sale
+TXN10641,14/10/2025,Cetirizine 10mg,Allergy,3,1.32,Private Prescription
+TXN10717,22/05/2025,Salbutamol Inhaler,Respiratory,1,6.86,NHS Prescription
+TXN10814,2025-07-24,Amoxicillin 250mg,Antibiotics,3,,otc sale
+TXN10349,23/01/2025,Atorvastatin 20mg,Cardiovascular,1,2.98,PRIVATE PRESCRIPTION
+TXN11004,10/10/2025,cetirizine 10mg,Allergy,2,,NHS PRESCRIPTION
+TXN10674,10/08/2025,Salbutamol Inhaler,  Respiratory ,1,6.51,PRIVATE PRESCRIPTION
+TXN10818,06-Aug-2025,Cetirizine 10mg,Allergy,2,1.34,NHS Prescription
+TXN10314,25-Dec-2025,Salbutamol Inhaler,Respiratory,1,6.61,private prescription
+TXN10447,2025-11-03,  Ibuprofen 200mg ,Pain Relief,1,1.56,NHS PRESCRIPTION
+TXN10420,01-Apr-2025,Metformin 500mg,Diabetes,2,1.84,NHS Prescription
+TXN10693,2025-05-18,Amoxicillin 250mg,Antibiotics,1,3.21,private prescription
+TXN10380,23-Oct-2025,  Paracetamol 500mg ,PAIN RELIEF,2,£1.08,NHS Prescription
+TXN10628,29/03/2025,  Salbutamol Inhaler ,  Respiratory ,,6.84,private prescription
+TXN10502,04/06/2025,Salbutamol Inhaler,Respiratory,1,£6.28,OTC Sale
+TXN10210,2025-07-22,Loratadine 10mg,Allergy,1,£1.39,NHS PRESCRIPTION
+TXN10305,02-Dec-2025,Omeprazole 20mg,Gastro,4,£2.08,NHS Prescription
+TXN10652,06/10/2025,IBUPROFEN 200MG,PAIN RELIEF,1,£1.47,OTC Sale
+TXN11067,04-Apr-2025,Metformin 500mg,Diabetes,1,£1.85,  OTC Sale 
+TXN10434,2025-08-16,metformin 500mg,  Diabetes ,1,£2.03,Private Prescription
+TXN10272,07-Oct-2025,VITAMIN D 1000IU,Supplements,1,3.43,Private Prescription
+TXN10587,07/11/2025,METFORMIN 500MG,Diabetes,1,£1.94,Private Prescription
+TXN11187,07-Nov-2025,Salbutamol Inhaler,Respiratory,4,£6.81,NHS Prescription
+TXN10066,2025-11-24,CETIRIZINE 10MG,Allergy,2,1.24,NHS Prescription
+TXN10813,26-Jun-2025,Amoxicillin 250mg,antibiotics,1,3.38,Private Prescription
+TXN10586,2025-03-21,Salbutamol Inhaler,Respiratory,1,7.01,  Private Prescription 
+TXN10491,2025-06-28,Ibuprofen 200mg,pain relief,1,,otc sale
+TXN10773,2025-05-06,paracetamol 500mg,Pain Relief,1,£1.08,NHS Prescription
+TXN10860,17/10/2025,Ibuprofen 200mg,Pain Relief,4,1.49,OTC Sale
+TXN11190,28/08/2025,Omeprazole 20mg,Gastro,1,£2.17,OTC Sale
+TXN10974,29-Apr-2025,atorvastatin 20mg,Cardiovascular,1,2.81,OTC Sale
+TXN10749,2025-07-14,Omeprazole 20mg,Gastro,2,£2.2,Private Prescription
+TXN10341,2025-10-16,Omeprazole 20mg,Gastro,1,£2.29,OTC SALE
+TXN10795,2025-08-06,Atorvastatin 20mg,Cardiovascular,1,£2.98,OTC SALE
+TXN10250,12-Jul-2025,PARACETAMOL 500MG,PAIN RELIEF,1,1.05,NHS Prescription
+TXN10391,2025-01-16,Cetirizine 10mg,Allergy,1,1.3,Private Prescription
+TXN10525,2025-06-28,Metformin 500mg,Diabetes,3,1.97,OTC Sale
+TXN10640,27-Dec-2025,Omeprazole 20mg,Gastro,3,£2.17,Private Prescription
+TXN10619,21-Nov-2025,cetirizine 10mg,  Allergy ,1,1.31,otc sale
+TXN10129,29-Mar-2025,atorvastatin 20mg,Cardiovascular,2,£3.01,private prescription
+TXN10270,22-Feb-2025,Atorvastatin 20mg,Cardiovascular,3,3.02,NHS Prescription
+TXN10965,2025-07-18,Metformin 500mg,Diabetes,2,£1.88,OTC Sale
+TXN10034,2025-05-01,Cetirizine 10mg,ALLERGY,1,£1.2,PRIVATE PRESCRIPTION
+TXN10216,29/01/2025,metformin 500mg,Diabetes,1,1.92,NHS Prescription
+TXN10192,2025-02-06,ATORVASTATIN 20MG,Cardiovascular,1,£2.7,NHS PRESCRIPTION
+TXN10406,2025-07-15,PARACETAMOL 500MG,pain relief,1,£1.2,NHS PRESCRIPTION
+TXN10383,12-Apr-2025,LORATADINE 10MG,Allergy,2,1.41,OTC Sale
+TXN11127,2025-10-04,Omeprazole 20mg,Gastro,3,2.05,Private Prescription
+TXN11116,2025-01-16,Paracetamol 500mg,Pain Relief,1,1.05,Private Prescription
+TXN10178,06-Apr-2025,Metformin 500mg,Diabetes,1,1.88,Private Prescription
+TXN10785,16/10/2025,Atorvastatin 20mg,Cardiovascular,2,3.0,Private Prescription
+TXN10523,02/03/2025,Metformin 500mg,DIABETES,1,1.85,NHS PRESCRIPTION
+TXN10213,2025-05-24,Cetirizine 10mg,Allergy,3,£1.3,private prescription
+TXN10500,10/12/2025,atorvastatin 20mg,Cardiovascular,2,3.07,Private Prescription
+TXN10848,2025-08-22,Vitamin D 1000IU,Supplements,1,3.47,NHS Prescription
+TXN10183,05-Oct-2025,Loratadine 10mg,  Allergy ,2,1.28,Private Prescription
+TXN10307,01-Mar-2025,Loratadine 10mg,Allergy,4,1.39,Private Prescription
+TXN11173,02/11/2025,vitamin d 1000iu,SUPPLEMENTS,1,£3.59,OTC Sale
+TXN10310,13/09/2025,Omeprazole 20mg,Gastro,1,£2.08,OTC Sale
+TXN10043,23/05/2025,Ibuprofen 200mg,Pain Relief,1,£1.51,Private Prescription
+TXN10487,10-May-2025,PARACETAMOL 500MG,pain relief,2,£1.11,PRIVATE PRESCRIPTION
+TXN10884,2025-08-30,vitamin d 1000iu,Supplements,2,3.39,NHS Prescription
+TXN10729,20/07/2025,  Cetirizine 10mg ,Allergy,2,1.27,OTC Sale
+TXN10957,05-Aug-2025,Salbutamol Inhaler,Respiratory,1,£6.46,OTC Sale
+TXN10746,23-Apr-2025,loratadine 10mg,  Allergy ,2,£1.39,Private Prescription
+TXN10174,23-Sep-2025,Metformin 500mg,Diabetes,1,£1.93,Private Prescription
+TXN10251,26/12/2025,Atorvastatin 20mg,Cardiovascular,1,2.66,NHS Prescription
+TXN10400,2025-01-28,  Loratadine 10mg ,Allergy,1,1.25,OTC Sale
+TXN10742,09/08/2025,LORATADINE 10MG,allergy,1,£1.42,OTC Sale
+TXN10084,17-Oct-2025,Amoxicillin 250mg,Antibiotics,1,£3.34,Private Prescription
+TXN11105,15/11/2025,amoxicillin 250mg,ANTIBIOTICS,4,3.18,NHS Prescription
+TXN10004,08-Nov-2025,Ibuprofen 200mg,Pain Relief,1,£1.41,NHS Prescription
+TXN10422,11/03/2025,LORATADINE 10MG,  Allergy ,2,£1.43,private prescription
+TXN10723,25/08/2025,Salbutamol Inhaler,respiratory,3,£6.92,OTC Sale
+TXN10327,2025-04-30,Paracetamol 500mg,Pain Relief,1,£1.1,NHS PRESCRIPTION
+TXN10445,25-Oct-2025,Loratadine 10mg,Allergy,,1.36,OTC SALE
+TXN11044,01-May-2025,Ibuprofen 200mg,pain relief,1,£1.5,OTC Sale
+TXN10714,2025-12-06,Cetirizine 10mg,Allergy,1,£1.34,  NHS Prescription 
+TXN10118,20-Mar-2025,Metformin 500mg,  Diabetes ,1,£2.01,NHS Prescription
+TXN10212,2025-02-17,Amoxicillin 250mg,ANTIBIOTICS,1,3.06,NHS Prescription
+TXN10021,2025-09-08,METFORMIN 500MG,DIABETES,3,1.83,Private Prescription
+TXN10428,17-Dec-2025,Omeprazole 20mg,Gastro,2,2.29,private prescription
+TXN10727,13/01/2025,Atorvastatin 20mg,Cardiovascular,1,2.71,OTC Sale
+TXN10026,2025-06-19,METFORMIN 500MG,Diabetes,1,1.86,OTC SALE
+TXN10450,30/03/2025,Loratadine 10mg,allergy,1,1.28,NHS PRESCRIPTION
+TXN10299,30-Apr-2025,Atorvastatin 20mg,,1,£2.83,Private Prescription
+TXN10507,2025-11-05,Loratadine 10mg,Allergy,1,£1.38,NHS Prescription
+TXN10084,17-Oct-2025,Amoxicillin 250mg,Antibiotics,1,£3.34,Private Prescription
+TXN10539,2025-11-11,IBUPROFEN 200MG,Pain Relief,1,,OTC Sale
+TXN10607,2025-04-26,Omeprazole 20mg,Gastro,3,2.26,Private Prescription
+TXN10990,17-Aug-2025,omeprazole 20mg,Gastro,4,£2.08,NHS Prescription
+TXN10866,2025-09-22,Vitamin D 1000IU,supplements,1,3.82,Private Prescription
+TXN10010,2025-02-05,Atorvastatin 20mg,Cardiovascular,2,2.86,otc sale
+TXN10930,2025-03-21,vitamin d 1000iu,Supplements,1,3.43,OTC Sale
+TXN11021,26/07/2025,Atorvastatin 20mg,Cardiovascular,2,£2.92,OTC SALE
+TXN10842,2025-06-26,Amoxicillin 250mg,Antibiotics,1,£3.19,OTC Sale
+TXN10892,13/09/2025,  Amoxicillin 250mg ,Antibiotics,1,3.4,OTC Sale
+TXN10958,01-Nov-2025,Amoxicillin 250mg,Antibiotics,2,,NHS Prescription
+TXN10008,22/03/2025,Salbutamol Inhaler,Respiratory,1,6.88,nhs prescription
+TXN10779,06-Nov-2025,Amoxicillin 250mg,Antibiotics,1,£3.43,NHS Prescription
+TXN10342,04-Jan-2025,Cetirizine 10mg,Allergy,4,1.25,NHS PRESCRIPTION
+TXN10936,01/07/2025,Ibuprofen 200mg,Pain Relief,4,1.51,NHS Prescription
+TXN11114,17/02/2025,CETIRIZINE 10MG,Allergy,1,£1.26,NHS Prescription
+TXN10373,06-Jan-2025,Omeprazole 20mg,GASTRO,1,£2.24,OTC Sale
+TXN10564,2025-09-13,Paracetamol 500mg,  Pain Relief ,2,1.11,NHS Prescription
+TXN10052,2025-04-26,Metformin 500mg,Diabetes,1,£1.85,Private Prescription
+TXN10040,24-Oct-2025,ibuprofen 200mg,Pain Relief,3,£1.57,Private Prescription
+TXN10101,31-Dec-2025,IBUPROFEN 200MG,Pain Relief,3,£1.54,Private Prescription
+TXN11002,2025-11-01,Atorvastatin 20mg,CARDIOVASCULAR,1,£2.71,  OTC Sale 
+TXN10599,2025-04-30,Atorvastatin 20mg,Cardiovascular,1,£2.99,NHS Prescription
+TXN10559,2025-06-30,Metformin 500mg,Diabetes,1,,private prescription
+TXN11068,09-May-2025,Salbutamol Inhaler,Respiratory,1,6.83,NHS Prescription
+TXN10819,2025-07-16,metformin 500mg,Diabetes,-1,2.08,PRIVATE PRESCRIPTION
+TXN10253,19-Dec-2025,Omeprazole 20mg,GASTRO,-1,2.21,NHS Prescription
+TXN10585,2025-06-05,OMEPRAZOLE 20MG,Gastro,1,2.06,OTC Sale
+TXN11090,2025-07-28,Cetirizine 10mg,Allergy,1,1.27,PRIVATE PRESCRIPTION
+TXN10800,28/12/2025,Amoxicillin 250mg,  Antibiotics ,3,3.24,NHS Prescription
+TXN10764,2025-08-05,Salbutamol Inhaler,Respiratory,1,£6.41,NHS PRESCRIPTION
+TXN10605,05/01/2025,Salbutamol Inhaler,Respiratory,3,£6.97,OTC SALE
+TXN10968,17-Jun-2025,Salbutamol Inhaler,Respiratory,4,6.34,NHS Prescription
+TXN10826,19-Feb-2025,Loratadine 10mg,Allergy,1,1.28,Private Prescription
+TXN10703,2025-03-12,Amoxicillin 250mg,Antibiotics,1,3.45,Private Prescription
+TXN11185,08-Dec-2025,atorvastatin 20mg,Cardiovascular,1,2.67,OTC Sale
+TXN10590,06-Nov-2025,Cetirizine 10mg,,3,1.23,Private Prescription
+TXN10474,2025-03-03,Metformin 500mg,DIABETES,2,2.03,OTC Sale
+TXN10169,2025-06-03,Amoxicillin 250mg,Antibiotics,2,£3.27,NHS Prescription
+TXN10024,02/04/2025,  Paracetamol 500mg ,PAIN RELIEF,2,1.16,nhs prescription
+TXN10482,20/10/2025,Salbutamol Inhaler,respiratory,1,6.72,Private Prescription
+TXN10384,2025-08-29,Atorvastatin 20mg,Cardiovascular,3,£3.04,Private Prescription
+TXN10152,18-May-2025,Paracetamol 500mg,Pain Relief,2,£1.19,nhs prescription
+TXN10195,16/04/2025,Cetirizine 10mg,Allergy,2,1.26,NHS Prescription
+TXN10579,31/12/2025,Ibuprofen 200mg,Pain Relief,2,£1.5,OTC SALE
+TXN10162,09/01/2025,  Loratadine 10mg ,Allergy,1,£1.37,OTC Sale
+TXN10412,22-Jun-2025,Paracetamol 500mg,Pain Relief,1,1.15,OTC SALE
+TXN10155,24/10/2025,Vitamin D 1000IU,Supplements,1,3.45,OTC Sale
+TXN10960,21/01/2025,VITAMIN D 1000IU,supplements,1,£3.39,Private Prescription
+TXN10411,13/03/2025,Omeprazole 20mg,Gastro,1,2.18,NHS PRESCRIPTION
+TXN10153,02/03/2025,Omeprazole 20mg,Gastro,3,£2.22,Private Prescription
+TXN10128,02-Aug-2025,Ibuprofen 200mg,Pain Relief,1,1.57,OTC SALE
+TXN11107,2025-11-07,  Paracetamol 500mg ,PAIN RELIEF,1,£1.14,OTC Sale
+TXN10099,30-Jul-2025,Paracetamol 500mg,pain relief,2,£1.12,NHS Prescription
+TXN10229,18-Dec-2025,METFORMIN 500MG,Diabetes,1,£1.89,NHS PRESCRIPTION
+TXN10219,11/07/2025,Ibuprofen 200mg,Pain Relief,1,£1.44,OTC Sale
+TXN10019,03/10/2025,Ibuprofen 200mg,Pain Relief,1,£1.45,OTC Sale
+TXN10597,21/02/2025,LORATADINE 10MG,Allergy,1,1.38,NHS Prescription
+TXN10139,2025-12-09,Salbutamol Inhaler,  Respiratory ,1,£6.49,OTC SALE
+TXN10863,01/07/2025,Vitamin D 1000IU,SUPPLEMENTS,1,£3.43,NHS Prescription
+TXN10462,28/12/2025,Cetirizine 10mg,Allergy,1,1.32,OTC Sale
+TXN10914,02/04/2025,Metformin 500mg,DIABETES,1,£2.06,OTC Sale
+TXN10681,2025-07-31,ATORVASTATIN 20MG,Cardiovascular,1,2.84,OTC Sale
+TXN10948,03/08/2025,Salbutamol Inhaler,,3,6.55,nhs prescription
+TXN10916,2025-01-23,Salbutamol Inhaler,Respiratory,1,6.83,OTC Sale
+TXN10708,2025-08-09,Metformin 500mg,  Diabetes ,1,£1.91,OTC Sale
+TXN10775,03-Jun-2025,Amoxicillin 250mg,ANTIBIOTICS,3,3.28,Private Prescription
+TXN10620,2025-03-05,Cetirizine 10mg,ALLERGY,1,1.2,NHS Prescription
+TXN10224,07/02/2025,Ibuprofen 200mg,Pain Relief,1,1.54,otc sale
+TXN11145,2025-12-23,amoxicillin 250mg,Antibiotics,2,£3.41,OTC Sale
+TXN10324,30-May-2025,Salbutamol Inhaler,Respiratory,-1,6.54,  NHS Prescription 
+TXN10880,21-Feb-2025,amoxicillin 250mg,Antibiotics,1,3.34,  Private Prescription 
+TXN10633,16/06/2025,Amoxicillin 250mg,ANTIBIOTICS,1,,otc sale
+TXN10615,12/10/2025,PARACETAMOL 500MG,Pain Relief,2,£1.07,Private Prescription
+TXN10824,01/03/2025,Salbutamol Inhaler,,1,6.78,  Private Prescription 
+TXN11178,10/07/2025,LORATADINE 10MG,Allergy,,1.28,NHS Prescription
+TXN10484,17/05/2025,Omeprazole 20mg,Gastro,2,£2.13,NHS PRESCRIPTION
+TXN10734,16-Jul-2025,AMOXICILLIN 250MG,Antibiotics,3,£3.16,PRIVATE PRESCRIPTION
+TXN10180,22/10/2025,Amoxicillin 250mg,ANTIBIOTICS,1,3.3,NHS Prescription
+TXN10879,09-Jan-2025,Omeprazole 20mg,Gastro,2,£2.18,otc sale
+TXN10604,2025-01-01,Vitamin D 1000IU,Supplements,1,3.77,otc sale
+TXN10846,02-Feb-2025,Omeprazole 20mg,Gastro,1,2.07,nhs prescription
+TXN10132,28-May-2025,  Cetirizine 10mg ,Allergy,2,1.28,Private Prescription
+TXN11035,2025-03-18,Amoxicillin 250mg,Antibiotics,1,£3.19,  OTC Sale 
+TXN10347,24-Dec-2025,salbutamol inhaler,Respiratory,2,£6.37,Private Prescription
+TXN11164,15-Sep-2025,Metformin 500mg,Diabetes,3,2.0,Private Prescription
+TXN10574,07-Nov-2025,Paracetamol 500mg,pain relief,1,£1.17,NHS Prescription
+TXN10576,08/05/2025,Omeprazole 20mg,Gastro,3,£2.0,otc sale
+TXN10335,2025-06-14,Omeprazole 20mg,  Gastro ,2,2.12,NHS Prescription
+TXN10103,23/12/2025,  Atorvastatin 20mg ,Cardiovascular,2,2.92,NHS Prescription
+TXN10573,28-Feb-2025,Cetirizine 10mg,Allergy,1,£1.28,nhs prescription
+TXN10329,2025-08-24,Omeprazole 20mg,Gastro,1,2.14,  NHS Prescription 
+TXN10263,08-Oct-2025,Cetirizine 10mg,  Allergy ,1,1.36,private prescription
+TXN10499,2025-07-01,cetirizine 10mg,Allergy,1,1.19,  Private Prescription 
+TXN10320,18-Feb-2025,Ibuprofen 200mg,  Pain Relief ,3,1.39,  Private Prescription 
+TXN10997,12-Mar-2025,Vitamin D 1000IU,  Supplements ,1,3.84,otc sale
+TXN10695,08/08/2025,Salbutamol Inhaler,  Respiratory ,1,£6.79,OTC Sale
+TXN10920,28/04/2025,Ibuprofen 200mg,Pain Relief,2,1.54,OTC Sale
+TXN10340,2025-06-22,Metformin 500mg,Diabetes,1,£1.93,OTC Sale
+TXN10304,2025-11-24,amoxicillin 250mg,Antibiotics,1,3.36,OTC SALE
+TXN10459,25/02/2025,Atorvastatin 20mg,Cardiovascular,1,£2.92,OTC Sale
+TXN11177,05-Mar-2025,Paracetamol 500mg,Pain Relief,2,1.11,OTC Sale
+TXN10325,2025-11-17,  Salbutamol Inhaler ,Respiratory,1,6.77,NHS PRESCRIPTION
+TXN10759,25-Apr-2025,IBUPROFEN 200MG,Pain Relief,1,1.5,OTC Sale
+TXN10766,31-Oct-2025,Paracetamol 500mg,Pain Relief,1,1.11,NHS Prescription
+TXN10284,2025-05-29,Ibuprofen 200mg,pain relief,1,1.54,  NHS Prescription 
+TXN10345,01-Dec-2025,OMEPRAZOLE 20MG,GASTRO,3,£2.19,NHS Prescription
+TXN10854,2025-06-16,SALBUTAMOL INHALER,Respiratory,1,6.38,Private Prescription
+TXN10830,19-Apr-2025,Omeprazole 20mg,Gastro,1,2.05,  Private Prescription 
+TXN11095,14/03/2025,Omeprazole 20mg,gastro,1,2.14,NHS Prescription
+TXN10290,2025-02-02,Omeprazole 20mg,Gastro,1,2.06,NHS Prescription
+TXN10543,11/02/2025,Loratadine 10mg,Allergy,2,1.28,NHS Prescription
+TXN10797,07/07/2025,Paracetamol 500mg,Pain Relief,,1.11,otc sale
+TXN10356,19-Dec-2025,Cetirizine 10mg,  Allergy ,3,1.36,nhs prescription
+TXN10453,20/02/2025,Ibuprofen 200mg,Pain Relief,2,1.53,OTC Sale
+TXN10856,30/08/2025,Ibuprofen 200mg,Pain Relief,3,1.59,Private Prescription
+TXN11175,24/03/2025,Vitamin D 1000IU,SUPPLEMENTS,1,3.36,private prescription
+TXN10159,2025-03-18,METFORMIN 500MG,Diabetes,1,£2.04,Private Prescription
+TXN10787,15-Oct-2025,Omeprazole 20mg,Gastro,1,£2.2,Private Prescription
+TXN10658,2025-07-05,Paracetamol 500mg,Pain Relief,1,1.06,OTC Sale
+TXN10774,2025-01-02,Omeprazole 20mg,Gastro,1,£2.06,OTC Sale
+TXN10982,2025-12-14,Paracetamol 500mg,Pain Relief,4,£1.1,OTC Sale
+TXN10131,24-Aug-2025,Amoxicillin 250mg,Antibiotics,1,3.41,private prescription
+TXN10247,2025-09-02,Salbutamol Inhaler,RESPIRATORY,,6.89,NHS Prescription
+TXN10791,18-Mar-2025,AMOXICILLIN 250MG,ANTIBIOTICS,1,£3.19,NHS Prescription
+TXN10007,17/07/2025,Ibuprofen 200mg,Pain Relief,1,1.43,PRIVATE PRESCRIPTION
+TXN10683,2025-10-06,vitamin d 1000iu,Supplements,2,3.75,NHS Prescription
+TXN10789,24-Jul-2025,  Salbutamol Inhaler ,Respiratory,1,6.46,Private Prescription
+TXN10220,2025-07-02,VITAMIN D 1000IU,Supplements,2,3.52,OTC SALE
+TXN10799,2025-10-20,paracetamol 500mg,Pain Relief,3,1.21,PRIVATE PRESCRIPTION
+TXN10236,2025-01-30,Omeprazole 20mg,Gastro,1,£2.11,Private Prescription
+TXN10663,13/11/2025,Salbutamol Inhaler,  Respiratory ,1,6.9,NHS PRESCRIPTION
+TXN10919,26/05/2025,Cetirizine 10mg,Allergy,1,1.26,Private Prescription
+TXN10578,2025-07-25,Paracetamol 500mg,PAIN RELIEF,1,£1.12,OTC Sale
+TXN10630,25/07/2025,Amoxicillin 250mg,ANTIBIOTICS,1,3.13,Private Prescription
+TXN10291,21-Nov-2025,Metformin 500mg,Diabetes,2,£1.96,NHS Prescription
+TXN10419,12/09/2025,Atorvastatin 20mg,Cardiovascular,1,£2.68,OTC SALE
+TXN10225,22-Mar-2025,Salbutamol Inhaler,Respiratory,1,6.36,Private Prescription
+TXN10116,04/07/2025,PARACETAMOL 500MG,Pain Relief,1,£1.21,Private Prescription
+TXN10185,2025-06-29,Vitamin D 1000IU,Supplements,1,3.49,NHS Prescription
+TXN11063,21/05/2025,Atorvastatin 20mg,cardiovascular,-1,£2.85,  Private Prescription 
+TXN10041,03-Mar-2025,Vitamin D 1000IU,,2,£3.55,Private Prescription
+TXN10218,2025-06-19,PARACETAMOL 500MG,Pain Relief,1,1.16,OTC Sale
+TXN10805,28/12/2025,  Salbutamol Inhaler ,Respiratory,1,£6.48,NHS Prescription
+TXN10161,2025-09-28,IBUPROFEN 200MG,Pain Relief,1,1.53,nhs prescription
+TXN11195,12-Dec-2025,atorvastatin 20mg,Cardiovascular,1,2.94,Private Prescription
+TXN11049,26-Jul-2025,METFORMIN 500MG,diabetes,1,1.94,Private Prescription
+TXN10055,2025-06-20,Salbutamol Inhaler,Respiratory,2,6.5,Private Prescription
+TXN10237,01-Apr-2025,Atorvastatin 20mg,CARDIOVASCULAR,1,2.73,NHS Prescription
+TXN11155,2025-07-26,Atorvastatin 20mg,Cardiovascular,2,£2.73,PRIVATE PRESCRIPTION
+TXN11017,15/07/2025,Salbutamol Inhaler,RESPIRATORY,1,6.65,OTC SALE
+TXN10433,2025-04-07,Cetirizine 10mg,Allergy,1,1.34,OTC Sale
+TXN10983,14-Jan-2025,ATORVASTATIN 20MG,Cardiovascular,1,3.04,Private Prescription
+TXN10625,2025-05-03,Ibuprofen 200mg,,1,1.54,OTC SALE
+TXN11055,2025-10-05,Metformin 500mg,DIABETES,2,1.97,Private Prescription
+TXN11045,03/12/2025,Amoxicillin 250mg,  Antibiotics ,2,£3.47,OTC SALE
+TXN10772,11-Dec-2025,Metformin 500mg,Diabetes,2,2.07,NHS Prescription
+TXN10357,16-Jan-2025,Amoxicillin 250mg,Antibiotics,3,3.24,OTC Sale
+TXN10752,2025-05-08,Ibuprofen 200mg,Pain Relief,1,£1.39,OTC Sale
+TXN11010,2025-04-23,Amoxicillin 250mg,ANTIBIOTICS,2,3.43,OTC Sale
+TXN10665,2025-11-23,OMEPRAZOLE 20MG,Gastro,,£2.17,Private Prescription
+TXN11094,18/12/2025,Cetirizine 10mg,allergy,1,1.23,OTC SALE
+TXN10898,09/08/2025,Cetirizine 10mg,Allergy,1,1.23,OTC Sale
+TXN11106,02/09/2025,omeprazole 20mg,Gastro,3,2.16,Private Prescription
+TXN10608,28/06/2025,Atorvastatin 20mg,CARDIOVASCULAR,1,2.78,NHS Prescription
+TXN10678,12-Apr-2025,Vitamin D 1000IU,  Supplements ,2,3.4,NHS Prescription
+TXN10548,23/11/2025,AMOXICILLIN 250MG,,1,3.39,OTC Sale
+TXN10688,2025-10-20,ibuprofen 200mg,pain relief,1,1.59,OTC Sale
+TXN10712,11/01/2025,Loratadine 10mg,Allergy,4,1.27,NHS PRESCRIPTION
+TXN11151,12-Oct-2025,Salbutamol Inhaler,Respiratory,2,6.45,OTC Sale
+TXN11184,25/12/2025,  Amoxicillin 250mg ,Antibiotics,1,3.17,NHS Prescription
+TXN11079,28/01/2025,Amoxicillin 250mg,Antibiotics,1,£3.42,Private Prescription
+TXN10123,2025-06-10,Vitamin D 1000IU,Supplements,2,3.6,OTC Sale
+TXN10700,2025-02-05,Paracetamol 500mg,  Pain Relief ,1,£1.16,OTC Sale
+TXN10679,28/02/2025,Loratadine 10mg,Allergy,1,1.24,NHS Prescription
+TXN10134,28/10/2025,VITAMIN D 1000IU,Supplements,1,3.6,OTC Sale
+TXN10352,25-Feb-2025,Loratadine 10mg,  Allergy ,1,1.31,nhs prescription
+TXN10082,27-Jan-2025,Salbutamol Inhaler,Respiratory,2,£6.74,Private Prescription
+TXN10093,25-Oct-2025,Atorvastatin 20mg,Cardiovascular,4,2.68,NHS Prescription
+TXN10264,23/06/2025,Omeprazole 20mg,Gastro,2,2.19,PRIVATE PRESCRIPTION
+TXN10333,09/05/2025,Amoxicillin 250mg,Antibiotics,1,3.18,OTC Sale
+TXN10266,2025-07-16,Metformin 500mg,DIABETES,4,£2.02,OTC Sale
+TXN10466,2025-06-15,Salbutamol Inhaler,Respiratory,1,£6.85,private prescription
+TXN10950,10/08/2025,ATORVASTATIN 20MG,Cardiovascular,3,£3.07,Private Prescription
+TXN11070,22/02/2025,ibuprofen 200mg,  Pain Relief ,4,£1.53,Private Prescription
+TXN10969,2025-11-14,Paracetamol 500mg,PAIN RELIEF,3,£1.2,Private Prescription
+TXN10489,22/09/2025,Cetirizine 10mg,Allergy,1,1.33,nhs prescription
+TXN10403,10-Jun-2025,AMOXICILLIN 250MG,antibiotics,-1,3.07,NHS Prescription
+TXN11150,2025-03-09,OMEPRAZOLE 20MG,,3,2.26,NHS Prescription
+TXN10167,2025-03-28,Salbutamol Inhaler,RESPIRATORY,1,£6.32,OTC Sale
+TXN10801,20-Jun-2025,Paracetamol 500mg,PAIN RELIEF,2,1.16,OTC Sale
+TXN10286,2025-03-10,Loratadine 10mg,Allergy,2,£1.33,NHS Prescription
+TXN10885,2025-02-27,Cetirizine 10mg,ALLERGY,1,1.35,OTC Sale
+TXN10939,2025-03-09,Loratadine 10mg,Allergy,2,£1.33,NHS PRESCRIPTION
+TXN10479,20-Jun-2025,SALBUTAMOL INHALER,Respiratory,3,6.98,OTC SALE
+TXN11069,30-Aug-2025,LORATADINE 10MG,ALLERGY,1,1.32,Private Prescription
+TXN10951,09-Sep-2025,Salbutamol Inhaler,RESPIRATORY,4,£6.51,OTC Sale
+TXN10069,2025-06-01,Ibuprofen 200mg,Pain Relief,2,1.41,Private Prescription
+TXN10108,2025-04-13,  Paracetamol 500mg ,pain relief,1,1.11,OTC Sale
+TXN11060,20/12/2025,CETIRIZINE 10MG,,1,1.3,OTC SALE
+TXN10755,2025-08-14,Metformin 500mg,,1,1.87,OTC Sale
+TXN10469,03-Apr-2025,Metformin 500mg,Diabetes,2,1.86,OTC Sale
+TXN10798,08-Jun-2025,  Vitamin D 1000IU ,Supplements,1,3.46,  OTC Sale 
+TXN10209,2025-08-20,Omeprazole 20mg,GASTRO,1,2.02,NHS Prescription
+TXN10175,2025-03-01,Ibuprofen 200mg,Pain Relief,1,1.55,OTC SALE
+TXN10360,12/11/2025,Atorvastatin 20mg,Cardiovascular,2,3.03,OTC Sale
+TXN10112,18-Jan-2025,ATORVASTATIN 20MG,Cardiovascular,1,£2.81,NHS Prescription
+TXN11109,15-Feb-2025,atorvastatin 20mg,CARDIOVASCULAR,1,£2.81,Private Prescription
+TXN10765,18-Aug-2025,LORATADINE 10MG,Allergy,2,1.32,nhs prescription
+TXN10894,01/06/2025,Metformin 500mg,Diabetes,1,£2.0,Private Prescription
+TXN10025,2025-06-29,Atorvastatin 20mg,Cardiovascular,2,2.75,Private Prescription
+TXN10375,29/01/2025,Salbutamol Inhaler,Respiratory,1,6.48,  NHS Prescription 
+TXN10009,2025-10-04,Amoxicillin 250mg,  Antibiotics ,3,£3.27,NHS PRESCRIPTION
+TXN10294,19/11/2025,Amoxicillin 250mg,Antibiotics,1,£3.07,OTC Sale
+TXN10363,2025-02-27,Metformin 500mg,,2,£2.0,NHS Prescription
+TXN11090,2025-07-28,Cetirizine 10mg,Allergy,1,1.27,PRIVATE PRESCRIPTION
+TXN10425,29/08/2025,Paracetamol 500mg,Pain Relief,,1.12,NHS PRESCRIPTION
+TXN11126,22-Feb-2025,Amoxicillin 250mg,Antibiotics,1,£3.51,Private Prescription
+TXN11097,25/08/2025,IBUPROFEN 200MG,Pain Relief,3,,NHS Prescription
+TXN10530,20/03/2025,IBUPROFEN 200MG,Pain Relief,4,1.39,  Private Prescription 
+TXN10709,10/08/2025,Metformin 500mg,diabetes,2,£2.08,OTC Sale
+TXN10477,16-Jul-2025,Metformin 500mg,Diabetes,2,2.06,  Private Prescription 
+TXN11137,15/07/2025,  Salbutamol Inhaler ,Respiratory,1,6.21,private prescription
+TXN10594,04-Apr-2025,PARACETAMOL 500MG,PAIN RELIEF,1,1.11,NHS Prescription
+TXN10582,2025-06-18,Atorvastatin 20mg,CARDIOVASCULAR,1,2.98,nhs prescription
+TXN10662,15-Dec-2025,salbutamol inhaler,  Respiratory ,1,7.07,NHS Prescription
+TXN10874,04-Dec-2025,Amoxicillin 250mg,Antibiotics,1,3.36,NHS Prescription
+TXN10595,01/05/2025,Vitamin D 1000IU,SUPPLEMENTS,1,£3.33,Private Prescription
+TXN10763,03/08/2025,Ibuprofen 200mg,,2,£1.48,OTC Sale
+TXN10645,2025-04-18,OMEPRAZOLE 20MG,Gastro,1,2.19,  OTC Sale 
+TXN11072,08/09/2025,Paracetamol 500mg,Pain Relief,2,1.06,Private Prescription
+TXN10493,21-Aug-2025,Atorvastatin 20mg,Cardiovascular,4,2.66,OTC SALE
+TXN10426,2025-05-03,Cetirizine 10mg,ALLERGY,4,£1.31,OTC Sale
+TXN10853,29/01/2025,Salbutamol Inhaler,Respiratory,1,7.13,NHS Prescription
+TXN10190,2025-11-29,AMOXICILLIN 250MG,Antibiotics,1,3.17,OTC Sale
+TXN10927,2025-08-24,SALBUTAMOL INHALER,respiratory,1,£6.53,OTC Sale
+TXN10348,15-Feb-2025,Vitamin D 1000IU,supplements,2,£3.51,Private Prescription
+TXN10466,2025-06-15,Salbutamol Inhaler,Respiratory,1,£6.85,private prescription
+TXN10283,14-Mar-2025,Metformin 500mg,Diabetes,1,£1.88,Private Prescription
+TXN10421,27/04/2025,Loratadine 10mg,Allergy,1,1.27,private prescription
+TXN10053,2025-09-14,Cetirizine 10mg,,1,1.19,OTC Sale
+TXN10767,24/10/2025,Metformin 500mg,,2,£1.9,otc sale
+TXN10575,21-Apr-2025,Metformin 500mg,Diabetes,2,2.04,NHS Prescription
+TXN10187,12-Jul-2025,  Salbutamol Inhaler ,Respiratory,1,6.92,NHS Prescription
+TXN10374,31/03/2025,Paracetamol 500mg,Pain Relief,1,1.16,Private Prescription
+TXN11034,2025-08-03,SALBUTAMOL INHALER,RESPIRATORY,2,£6.82,NHS Prescription
+TXN10531,27-Jan-2025,Ibuprofen 200mg,PAIN RELIEF,1,1.43,PRIVATE PRESCRIPTION
+TXN11152,2025-08-05,OMEPRAZOLE 20MG,,3,£2.22,OTC Sale
+TXN10790,11-Nov-2025,Omeprazole 20mg,GASTRO,1,2.14,  NHS Prescription 
+TXN11000,04-Apr-2025,Loratadine 10mg,  Allergy ,2,1.31,Private Prescription
+TXN10415,2025-04-20,loratadine 10mg,allergy,1,£1.26,NHS PRESCRIPTION
+TXN10027,08-Apr-2025,Vitamin D 1000IU,Supplements,1,3.6,OTC Sale
+TXN10584,15/04/2025,Amoxicillin 250mg,Antibiotics,1,3.44,private prescription
+TXN11087,13-Oct-2025,Vitamin D 1000IU,Supplements,2,3.33,NHS Prescription
+TXN10851,20/10/2025,Omeprazole 20mg,Gastro,1,2.24,Private Prescription
+TXN10262,21-Aug-2025,Omeprazole 20mg,Gastro,,2.14,OTC Sale
+TXN10673,2025-10-19,Amoxicillin 250mg,Antibiotics,3,3.46,OTC SALE
+TXN10244,10-Jul-2025,Loratadine 10mg,ALLERGY,1,£1.26,OTC Sale
+TXN10845,07/05/2025,metformin 500mg,diabetes,1,2.0,PRIVATE PRESCRIPTION
+TXN10072,2025-04-24,VITAMIN D 1000IU,,1,£3.8,NHS PRESCRIPTION
+TXN10083,15-Oct-2025,  Salbutamol Inhaler ,Respiratory,2,6.2,nhs prescription
+TXN10090,10/04/2025,METFORMIN 500MG,Diabetes,1,£1.99,NHS Prescription
+TXN10722,2025-10-07,Atorvastatin 20mg,Cardiovascular,1,£2.84,Private Prescription
+TXN10223,13-Jul-2025,Atorvastatin 20mg,Cardiovascular,1,2.86,  NHS Prescription 
+TXN10505,2025-09-06,salbutamol inhaler,RESPIRATORY,1,6.84,Private Prescription
+TXN10481,2025-12-18,vitamin d 1000iu,Supplements,2,3.58,private prescription
+TXN10206,2025-09-29,OMEPRAZOLE 20MG,Gastro,1,£2.3,Private Prescription
+TXN10303,2025-08-11,Vitamin D 1000IU,Supplements,1,£3.37,NHS Prescription
+TXN10364,09/05/2025,IBUPROFEN 200MG,Pain Relief,2,1.55,OTC Sale
+TXN11029,07/09/2025,  Omeprazole 20mg ,gastro,3,2.06,Private Prescription
+TXN10598,18-Dec-2025,Vitamin D 1000IU,SUPPLEMENTS,3,£3.67,OTC Sale
+TXN10877,09/10/2025,Atorvastatin 20mg,CARDIOVASCULAR,2,2.8,Private Prescription
+TXN10519,2025-01-25,Ibuprofen 200mg,Pain Relief,3,£1.5,OTC Sale
+TXN10626,21-Sep-2025,atorvastatin 20mg,CARDIOVASCULAR,4,2.95,private prescription
+TXN10330,12-Apr-2025,Cetirizine 10mg,,3,£1.23,Private Prescription
+TXN10427,17-Nov-2025,Loratadine 10mg,,-2,£1.36,OTC Sale
+TXN10577,23-Jan-2025,amoxicillin 250mg,Antibiotics,1,3.19,Private Prescription
+TXN10344,18/02/2025,Vitamin D 1000IU,Supplements,2,£3.75,NHS Prescription
+TXN10277,07/09/2025,atorvastatin 20mg,Cardiovascular,,£2.79,OTC Sale
+TXN11061,10/03/2025,Salbutamol Inhaler,,1,£6.18,NHS PRESCRIPTION
+TXN10038,10/05/2025,Salbutamol Inhaler,Respiratory,1,6.23,NHS Prescription
+TXN11039,23-Feb-2025,Paracetamol 500mg,Pain Relief,2,£1.08,OTC Sale
+TXN10724,28-Jan-2025,Cetirizine 10mg,ALLERGY,1,1.27,Private Prescription
+TXN10308,15-Jan-2025,Vitamin D 1000IU,Supplements,1,3.66,OTC Sale
+TXN10197,17/09/2025,Salbutamol Inhaler,respiratory,2,6.58,NHS Prescription
+TXN10870,2025-07-06,Amoxicillin 250mg,Antibiotics,2,3.14,PRIVATE PRESCRIPTION
+TXN10632,26-May-2025,omeprazole 20mg,Gastro,1,£2.1,OTC Sale
+TXN10793,09/02/2025,OMEPRAZOLE 20MG,Gastro,1,£2.08,OTC Sale
+TXN11032,29-Mar-2025,OMEPRAZOLE 20MG,GASTRO,2,£2.08,NHS Prescription
+TXN10516,2025-06-26,Loratadine 10mg,Allergy,2,£1.35,OTC Sale
+TXN10655,2025-01-02,Ibuprofen 200mg,Pain Relief,2,1.41,Private Prescription
+TXN10361,25/11/2025,Metformin 500mg,Diabetes,1,£2.04,OTC Sale
+TXN11147,2025-08-02,Salbutamol Inhaler,Respiratory,4,6.74,OTC Sale
+TXN11066,2025-06-08,  Metformin 500mg ,Diabetes,1,£2.06,OTC Sale
+TXN10498,17/12/2025,Amoxicillin 250mg,Antibiotics,2,£3.18,OTC Sale
+TXN10471,17/05/2025,SALBUTAMOL INHALER,,2,6.76,Private Prescription
+TXN10120,16-May-2025,Vitamin D 1000IU,  Supplements ,1,£3.65,  Private Prescription 
+TXN10321,26-May-2025,Omeprazole 20mg,Gastro,2,£2.26,Private Prescription
+TXN10343,2025-03-21,LORATADINE 10MG,Allergy,1,£1.28,private prescription
+TXN11124,15/06/2025,Vitamin D 1000IU,SUPPLEMENTS,1,3.59,NHS Prescription
+TXN10750,21-Apr-2025,Vitamin D 1000IU,Supplements,1,3.55,  OTC Sale 
+TXN10908,2025-01-16,Atorvastatin 20mg,Cardiovascular,1,3.06,NHS Prescription
+TXN10142,11/02/2025,Vitamin D 1000IU,supplements,1,3.37,OTC Sale
+TXN10915,15-Jul-2025,Paracetamol 500mg,Pain Relief,3,1.09,Private Prescription
+TXN11163,10/03/2025,IBUPROFEN 200MG,,1,1.57,OTC Sale
+TXN11012,02/12/2025,Vitamin D 1000IU,Supplements,1,£3.55,NHS Prescription
+TXN10309,28/05/2025,Omeprazole 20mg,Gastro,1,2.1,OTC Sale
+TXN10557,27-Nov-2025,Salbutamol Inhaler,Respiratory,1,6.35,OTC Sale
+TXN10389,05/12/2025,Amoxicillin 250mg,Antibiotics,1,3.34,Private Prescription
+TXN10191,08-Aug-2025,omeprazole 20mg,GASTRO,1,£2.06,Private Prescription
+TXN10538,2025-07-18,Loratadine 10mg,allergy,,£1.43,OTC Sale
+TXN10367,02-May-2025,ATORVASTATIN 20MG,  Cardiovascular ,1,£2.83,NHS PRESCRIPTION
+TXN10441,2025-02-14,metformin 500mg,Diabetes,2,2.09,OTC Sale
+TXN11081,11/02/2025,Metformin 500mg,Diabetes,1,£2.09,OTC SALE
+TXN10454,2025-07-07,Atorvastatin 20mg,Cardiovascular,1,2.71,PRIVATE PRESCRIPTION
+TXN10022,15/10/2025,Salbutamol Inhaler,RESPIRATORY,1,£6.85,NHS Prescription
+TXN11175,24/03/2025,Vitamin D 1000IU,SUPPLEMENTS,1,3.36,private prescription
+TXN11031,30/05/2025,AMOXICILLIN 250MG,Antibiotics,2,3.38,NHS Prescription
+TXN10023,16-Dec-2025,Omeprazole 20mg,gastro,2,2.17,NHS Prescription
+TXN10624,28/08/2025,  Loratadine 10mg ,Allergy,1,1.34,NHS Prescription
+TXN11110,31/03/2025,Omeprazole 20mg,Gastro,1,£2.25,OTC Sale
+TXN10079,03-Feb-2025,Amoxicillin 250mg,Antibiotics,1,£3.3,OTC Sale
+TXN10464,2025-01-14,VITAMIN D 1000IU,supplements,1,£3.51,OTC SALE
+TXN10371,28-Dec-2025,Vitamin D 1000IU,Supplements,1,3.46,Private Prescription
+TXN11133,2025-11-19,Metformin 500mg,DIABETES,2,1.93,nhs prescription
+TXN11073,14/01/2025,amoxicillin 250mg,,4,£3.36,NHS PRESCRIPTION
+TXN10588,16/07/2025,Loratadine 10mg,allergy,1,1.25,OTC Sale
+TXN10843,26/04/2025,Loratadine 10mg,Allergy,1,1.35,OTC Sale
+TXN10372,30/04/2025,Vitamin D 1000IU,Supplements,-4,3.34,Private Prescription
+TXN10836,2025-01-04,IBUPROFEN 200MG,  Pain Relief ,2,1.49,OTC Sale
+TXN11052,23/11/2025,PARACETAMOL 500MG,Pain Relief,1,£1.12,Private Prescription
+TXN10940,24/02/2025,Amoxicillin 250mg,,,3.11,OTC SALE
+TXN10483,14-May-2025,Vitamin D 1000IU,Supplements,1,£3.82,NHS Prescription
+TXN10121,19/12/2025,  Ibuprofen 200mg ,Pain Relief,1,£1.48,NHS Prescription
+TXN11099,02/01/2025,SALBUTAMOL INHALER,Respiratory,2,£6.77,  OTC Sale 
+TXN10596,2025-09-06,Cetirizine 10mg,Allergy,2,1.25,NHS Prescription
+TXN10552,2025-07-12,LORATADINE 10MG,  Allergy ,1,£1.24,PRIVATE PRESCRIPTION
+TXN10239,31/12/2025,Cetirizine 10mg,Allergy,1,1.35,OTC Sale
+TXN10733,24-Jan-2025,Ibuprofen 200mg,Pain Relief,3,£1.4,NHS PRESCRIPTION
+TXN11122,26/08/2025,Ibuprofen 200mg,,1,1.57,NHS Prescription
+TXN10470,17-Oct-2025,Salbutamol Inhaler,Respiratory,1,£6.63,NHS Prescription
+TXN10993,17/10/2025,Ibuprofen 200mg,Pain Relief,1,£1.56,PRIVATE PRESCRIPTION
+TXN11156,20-Oct-2025,Amoxicillin 250mg,Antibiotics,1,3.29,NHS Prescription
+TXN10414,2025-02-28,Ibuprofen 200mg,Pain Relief,1,£1.39,OTC Sale
+TXN10897,01-Aug-2025,Atorvastatin 20mg,Cardiovascular,1,2.83,Private Prescription
+TXN10386,2025-09-30,Cetirizine 10mg,Allergy,1,1.3,Private Prescription
+TXN11115,2025-06-10,Metformin 500mg,Diabetes,1,1.84,Private Prescription
+TXN10301,2025-09-05,Metformin 500mg,DIABETES,1,£1.88,NHS Prescription
+TXN10207,25/10/2025,Ibuprofen 200mg,pain relief,1,1.46,Private Prescription
+TXN11080,13/05/2025,IBUPROFEN 200MG,Pain Relief,1,1.42,PRIVATE PRESCRIPTION
+TXN10429,27-Dec-2025,METFORMIN 500MG,Diabetes,1,£1.84,NHS Prescription
+TXN10931,13/12/2025,Paracetamol 500mg,Pain Relief,2,1.05,  NHS Prescription 
+TXN10622,25-Jan-2025,Ibuprofen 200mg,Pain Relief,1,1.42,  NHS Prescription 
+TXN10888,07-Nov-2025,Salbutamol Inhaler,RESPIRATORY,3,£6.22,OTC Sale
+TXN10889,2025-08-04,Vitamin D 1000IU,Supplements,2,3.66,Private Prescription
+TXN10535,2025-02-05,Vitamin D 1000IU,Supplements,1,3.76,Private Prescription
+TXN10822,19-Dec-2025,Atorvastatin 20mg,,1,3.01,OTC Sale
+TXN10480,25/11/2025,Paracetamol 500mg,PAIN RELIEF,1,£1.15,OTC Sale
+TXN11140,02/04/2025,Atorvastatin 20mg,Cardiovascular,1,2.73,NHS Prescription
+TXN10408,07-Dec-2025,Paracetamol 500mg,Pain Relief,1,1.19,NHS Prescription
+TXN11008,17/04/2025,Salbutamol Inhaler,Respiratory,1,£6.42,OTC Sale
+TXN11071,18-Apr-2025,Atorvastatin 20mg,Cardiovascular,1,2.71,otc sale
+TXN11154,17-Nov-2025,paracetamol 500mg,pain relief,2,1.17,NHS Prescription
+TXN10457,15/03/2025,IBUPROFEN 200MG,Pain Relief,1,1.4,nhs prescription
+TXN10001,03/08/2025,Metformin 500mg,diabetes,1,2.05,NHS Prescription
+TXN10288,30-Aug-2025,Metformin 500mg,Diabetes,2,1.87,NHS Prescription
+TXN10230,30-Mar-2025,Atorvastatin 20mg,Cardiovascular,4,2.71,OTC Sale
+TXN10092,21/05/2025,Cetirizine 10mg,Allergy,1,1.25,OTC Sale
+TXN10088,2025-08-24,  Paracetamol 500mg ,Pain Relief,3,1.14,Private Prescription
+TXN10306,2025-10-26,Metformin 500mg,  Diabetes ,1,1.87,NHS Prescription
+TXN10379,24-Aug-2025,Paracetamol 500mg,Pain Relief,2,1.05,OTC Sale
+TXN10402,09-Nov-2025,Salbutamol Inhaler,Respiratory,3,£6.44,NHS Prescription
+TXN10963,2025-09-14,Amoxicillin 250mg,Antibiotics,1,£3.36,OTC SALE
+TXN10075,2025-02-16,atorvastatin 20mg,Cardiovascular,1,£3.07,NHS Prescription
+TXN11006,2025-07-17,vitamin d 1000iu,Supplements,1,,private prescription
+TXN10275,19-Jun-2025,Loratadine 10mg,ALLERGY,1,1.36,OTC Sale
+TXN10432,2025-02-27,Cetirizine 10mg,Allergy,1,1.29,OTC Sale
+TXN11015,2025-02-04,Paracetamol 500mg,Pain Relief,1,1.13,OTC Sale
+TXN10443,2025-03-12,Vitamin D 1000IU,Supplements,1,,nhs prescription
+TXN10446,2025-08-25,LORATADINE 10MG,Allergy,1,1.31,otc sale
+TXN10047,27/04/2025,Cetirizine 10mg,ALLERGY,1,£1.29,NHS Prescription
+TXN10020,03-Jun-2025,Metformin 500mg,Diabetes,1,1.88,OTC Sale
+TXN11194,2025-08-31,Salbutamol Inhaler,Respiratory,1,7.0,NHS Prescription
+TXN10076,18/06/2025,Omeprazole 20mg,GASTRO,2,2.08,Private Prescription
+TXN10858,27-Apr-2025,Atorvastatin 20mg,,1,£3.07,Private Prescription
+TXN11078,27/08/2025,Metformin 500mg,Diabetes,3,2.0,OTC Sale
+TXN11191,07-Oct-2025,Ibuprofen 200mg,Pain Relief,1,1.54,NHS Prescription
+TXN10337,07/11/2025,Omeprazole 20mg,Gastro,1,2.2,Private Prescription
+TXN11165,14-Apr-2025,Paracetamol 500mg,PAIN RELIEF,1,1.2,NHS Prescription
+TXN11148,2025-10-05,Cetirizine 10mg,  Allergy ,1,1.37,OTC Sale
+TXN10045,2025-12-21,Salbutamol Inhaler,Respiratory,1,6.64,NHS PRESCRIPTION
+TXN10186,31-Jan-2025,Salbutamol Inhaler,Respiratory,3,£7.02,  OTC Sale 
+TXN10413,30/08/2025,Paracetamol 500mg,PAIN RELIEF,1,£1.07,NHS Prescription
+TXN11171,01-Apr-2025,CETIRIZINE 10MG,ALLERGY,1,£1.29,NHS Prescription
+TXN10017,11-Feb-2025,metformin 500mg,Diabetes,1,2.05,  OTC Sale 
+TXN10203,10/07/2025,Vitamin D 1000IU,Supplements,1,3.42,PRIVATE PRESCRIPTION
+TXN10003,2025-12-05,  Paracetamol 500mg ,Pain Relief,2,1.19,Private Prescription
+TXN10035,2025-07-19,SALBUTAMOL INHALER,Respiratory,3,7.03,Private Prescription
+TXN11092,16/12/2025,Metformin 500mg,Diabetes,1,£2.06,OTC Sale
+TXN11077,2025-04-21,Vitamin D 1000IU,Supplements,1,£3.74,Private Prescription
+TXN10928,06/07/2025,Vitamin D 1000IU,Supplements,1,3.54,OTC Sale
+TXN10956,06-Nov-2025,LORATADINE 10MG,Allergy,1,1.27,private prescription
+TXN10316,2025-01-31,  Amoxicillin 250mg ,Antibiotics,2,3.34,PRIVATE PRESCRIPTION
+TXN11009,2025-01-12,Atorvastatin 20mg,  Cardiovascular ,1,2.67,Private Prescription
+TXN10817,2025-12-02,Ibuprofen 200mg,,2,1.45,Private Prescription
+TXN10141,23-Apr-2025,Omeprazole 20mg,Gastro,1,£2.31,NHS Prescription
+TXN10563,24/06/2025,Atorvastatin 20mg,CARDIOVASCULAR,1,2.98,Private Prescription
+TXN10431,20/08/2025,cetirizine 10mg,ALLERGY,1,1.32,NHS PRESCRIPTION
+TXN10282,2025-01-06,Loratadine 10mg,  Allergy ,3,1.24,private prescription
+TXN10494,2025-11-26,PARACETAMOL 500MG,pain relief,1,1.06,NHS Prescription
+TXN10975,31-Mar-2025,Salbutamol Inhaler,Respiratory,1,£6.51,  OTC Sale 
+TXN10522,2025-09-13,Vitamin D 1000IU,SUPPLEMENTS,1,3.81,OTC Sale
+TXN10603,12-Aug-2025,Metformin 500mg,Diabetes,1,£1.83,Private Prescription
+TXN10087,17-Jun-2025,cetirizine 10mg,Allergy,1,£1.22,OTC SALE
+TXN10249,08/09/2025,loratadine 10mg,ALLERGY,2,1.41,NHS PRESCRIPTION
+TXN10326,23/11/2025,ibuprofen 200mg,PAIN RELIEF,2,£1.51,NHS Prescription
+TXN11189,01/11/2025,VITAMIN D 1000IU,  Supplements ,1,3.85,OTC SALE
+TXN10566,2025-02-17,CETIRIZINE 10MG,Allergy,1,1.19,Private Prescription
+TXN10240,2025-10-15,Loratadine 10mg,Allergy,1,1.37,  OTC Sale 
+TXN10063,2025-11-17,Loratadine 10mg,Allergy,3,1.25,NHS Prescription
+TXN10295,2025-02-13,Cetirizine 10mg,Allergy,1,£1.35,private prescription
+TXN10095,2025-11-20,Paracetamol 500mg,Pain Relief,1,£1.14,OTC Sale
+TXN10392,02-Aug-2025,LORATADINE 10MG,Allergy,1,£1.26,NHS PRESCRIPTION
+TXN11005,19-May-2025,vitamin d 1000iu,supplements,1,£3.54,Private Prescription
+TXN11198,30-May-2025,Amoxicillin 250mg,Antibiotics,1,3.24,Private Prescription
+TXN10302,21-Feb-2025,Amoxicillin 250mg,Antibiotics,,3.42,NHS Prescription
+TXN11166,17-Feb-2025,Vitamin D 1000IU,SUPPLEMENTS,2,3.41,OTC Sale
+TXN11180,22/09/2025,Paracetamol 500mg,Pain Relief,2,£1.12,OTC SALE
+TXN10011,24/07/2025,CETIRIZINE 10MG,,2,£1.28,NHS PRESCRIPTION
+TXN11098,2025-02-27,Salbutamol Inhaler,Respiratory,1,£7.08,OTC SALE
+TXN10850,15/08/2025,ibuprofen 200mg,Pain Relief,2,1.42,Private Prescription
+TXN10725,17-Oct-2025,Cetirizine 10mg,allergy,2,1.21,PRIVATE PRESCRIPTION
+TXN10571,21/05/2025,Amoxicillin 250mg,Antibiotics,1,3.07,NHS Prescription
+TXN11088,10-May-2025,Salbutamol Inhaler,Respiratory,1,£6.69,NHS Prescription
+TXN10646,17/11/2025,Paracetamol 500mg,Pain Relief,2,£1.2,OTC Sale
+TXN10520,30/04/2025,Vitamin D 1000IU,supplements,1,3.75,Private Prescription
+TXN10937,27/01/2025,  Amoxicillin 250mg ,Antibiotics,1,3.26,NHS PRESCRIPTION
+TXN10046,11-Jun-2025,Omeprazole 20mg,Gastro,2,£2.21,NHS Prescription
+TXN10117,06-Mar-2025,Ibuprofen 200mg,Pain Relief,2,£1.53,NHS Prescription
+TXN10839,2025-08-23,Ibuprofen 200mg,Pain Relief,2,1.45,NHS Prescription
+TXN10444,2025-11-24,Cetirizine 10mg,ALLERGY,1,1.35,NHS Prescription
+TXN10921,2025-04-18,Omeprazole 20mg,gastro,1,2.04,NHS Prescription
+TXN11121,2025-02-04,Cetirizine 10mg,allergy,1,£1.2,Private Prescription
+TXN11130,04/10/2025,Loratadine 10mg,allergy,3,£1.31,OTC Sale
+TXN11183,2025-12-10,Omeprazole 20mg,Gastro,2,2.25,NHS Prescription
+TXN10016,05-Dec-2025,METFORMIN 500MG,DIABETES,1,2.08,otc sale
+TXN10002,2025-06-26,LORATADINE 10MG,Allergy,1,£1.32,NHS Prescription
+TXN10706,2025-04-23,amoxicillin 250mg,antibiotics,1,£3.34,OTC SALE
+TXN10825,2025-05-22,AMOXICILLIN 250MG,Antibiotics,2,3.48,Private Prescription
+TXN10189,2025-09-06,VITAMIN D 1000IU,supplements,3,3.35,private prescription
+TXN10796,20-Apr-2025,Vitamin D 1000IU,  Supplements ,3,3.7,OTC Sale
+TXN11123,09/03/2025,Loratadine 10mg,Allergy,1,£1.3,OTC Sale
+TXN10045,2025-12-21,Salbutamol Inhaler,Respiratory,1,6.64,NHS PRESCRIPTION
+TXN10124,25/05/2025,Paracetamol 500mg,Pain Relief,1,£1.16,PRIVATE PRESCRIPTION
+TXN10882,13/03/2025,Salbutamol Inhaler,Respiratory,1,7.12,PRIVATE PRESCRIPTION
+TXN10171,21-Dec-2025,  Cetirizine 10mg ,allergy,2,1.26,Private Prescription
+TXN10217,2025-10-18,Loratadine 10mg,ALLERGY,1,1.4,NHS Prescription
+TXN11051,11/06/2025,Paracetamol 500mg,Pain Relief,1,1.14,NHS Prescription
+TXN10972,23/07/2025,Ibuprofen 200mg,PAIN RELIEF,1,1.47,Private Prescription
+TXN11091,2025-07-19,Paracetamol 500mg,PAIN RELIEF,3,1.07,OTC Sale
+TXN10794,09-Dec-2025,VITAMIN D 1000IU,Supplements,-1,£3.45,NHS PRESCRIPTION
+TXN11065,13-Aug-2025,Omeprazole 20mg,GASTRO,1,£2.15,OTC SALE
+TXN10855,04-Dec-2025,Paracetamol 500mg,PAIN RELIEF,2,£1.13,Private Prescription
+TXN11146,06-Nov-2025,Paracetamol 500mg,Pain Relief,-2,£1.1,Private Prescription
+TXN10580,22-Nov-2025,Amoxicillin 250mg,Antibiotics,4,£3.07,nhs prescription
+TXN11113,06/12/2025,Salbutamol Inhaler,RESPIRATORY,4,6.73,OTC SALE
+TXN10401,16-Mar-2025,  Cetirizine 10mg ,Allergy,3,1.36,Private Prescription
+TXN10030,04/12/2025,Amoxicillin 250mg,antibiotics,1,£3.34,Private Prescription
+TXN10511,09/11/2025,Vitamin D 1000IU,  Supplements ,2,3.38,OTC Sale
+TXN10562,2025-12-02,vitamin d 1000iu,supplements,1,£3.72,OTC Sale
+TXN10675,2025-06-13,Omeprazole 20mg,gastro,1,,OTC Sale
+TXN10661,29/08/2025,cetirizine 10mg,ALLERGY,2,£1.31,NHS Prescription
+TXN10115,05-Oct-2025,metformin 500mg,diabetes,3,2.01,NHS Prescription
+TXN10154,27/08/2025,Atorvastatin 20mg,Cardiovascular,2,£2.98,Private Prescription
+TXN10105,01-Jan-2025,Salbutamol Inhaler,Respiratory,1,6.36,OTC SALE
+TXN11193,2025-09-25,Loratadine 10mg,,2,1.43,Private Prescription
+TXN10243,31/05/2025,Amoxicillin 250mg,Antibiotics,1,3.39,Private Prescription
+TXN10241,22-Sep-2025,  Amoxicillin 250mg ,ANTIBIOTICS,3,3.43,Private Prescription
+TXN10533,11-Jul-2025,Amoxicillin 250mg,,4,3.3,Private Prescription
+TXN10166,2025-10-11,Loratadine 10mg,Allergy,1,£1.4,OTC Sale
+TXN10718,2025-08-27,Amoxicillin 250mg,  Antibiotics ,1,3.34,OTC SALE
+TXN10606,2025-06-08,Loratadine 10mg,  Allergy ,4,1.43,private prescription
+TXN11179,04/03/2025,METFORMIN 500MG,Diabetes,1,2.01,OTC SALE
+TXN10664,2025-11-28,LORATADINE 10MG,Allergy,1,1.25,private prescription
+TXN11064,08-Jan-2025,salbutamol inhaler,Respiratory,2,£6.75,private prescription
+TXN10944,2025-03-25,omeprazole 20mg,Gastro,2,,  OTC Sale 
+TXN10135,2025-07-28,Amoxicillin 250mg,Antibiotics,3,£3.27,OTC Sale
+TXN10896,2025-01-14,Cetirizine 10mg,ALLERGY,1,,OTC Sale
+TXN10912,2025-02-23,Atorvastatin 20mg,Cardiovascular,1,2.79,Private Prescription
+TXN10258,23-Oct-2025,Metformin 500mg,Diabetes,1,2.05,OTC Sale
+TXN10390,2025-02-15,LORATADINE 10MG,Allergy,,£1.31,PRIVATE PRESCRIPTION
+TXN10553,12-Apr-2025,paracetamol 500mg,pain relief,1,£1.09,OTC SALE
+TXN10612,2025-05-21,Salbutamol Inhaler,respiratory,2,£6.29,  Private Prescription 
+TXN11144,07-Jul-2025,AMOXICILLIN 250MG,Antibiotics,3,,  OTC Sale 
+TXN10037,31/10/2025,SALBUTAMOL INHALER,respiratory,2,6.59,  Private Prescription 
+TXN10904,18-Feb-2025,Ibuprofen 200mg,pain relief,1,1.46,Private Prescription
+TXN10385,01-Sep-2025,Ibuprofen 200mg,Pain Relief,1,1.41,OTC Sale
+TXN10900,13-Nov-2025,Atorvastatin 20mg,Cardiovascular,1,£3.06,NHS Prescription
+TXN10140,21-Dec-2025,Loratadine 10mg,Allergy,1,1.29,Private Prescription
+TXN10697,2025-06-18,  Paracetamol 500mg ,pain relief,1,1.19,OTC SALE
+TXN10460,2025-06-05,Amoxicillin 250mg,Antibiotics,2,3.36,Private Prescription
+TXN10280,04/01/2025,Metformin 500mg,  Diabetes ,2,£2.02,Private Prescription
+TXN10107,07-Oct-2025,Loratadine 10mg,ALLERGY,2,1.39,  NHS Prescription 
+TXN10934,2025-07-15,Amoxicillin 250mg,antibiotics,1,3.05,OTC Sale
+TXN10136,2025-03-31,Paracetamol 500mg,Pain Relief,3,1.2,NHS PRESCRIPTION
+TXN11117,11/02/2025,IBUPROFEN 200MG,Pain Relief,1,1.56,Private Prescription
+TXN11043,2025-08-02,Metformin 500mg,Diabetes,1,2.03,  OTC Sale 
+TXN10981,2025-08-20,Cetirizine 10mg,  Allergy ,1,1.26,OTC Sale
+TXN10322,24-Dec-2025,Amoxicillin 250mg,Antibiotics,1,3.34,NHS Prescription
+TXN10313,12/12/2025,Paracetamol 500mg,Pain Relief,1,1.1,Private Prescription
+TXN10829,17-Oct-2025,Loratadine 10mg,Allergy,1,£1.38,NHS PRESCRIPTION
+TXN10613,31/10/2025,IBUPROFEN 200MG,Pain Relief,1,£1.53,OTC SALE
+TXN10707,24-Feb-2025,Atorvastatin 20mg,CARDIOVASCULAR,1,£2.74,nhs prescription
+TXN10158,2025-01-04,PARACETAMOL 500MG,Pain Relief,1,£1.13,NHS Prescription
+TXN10786,25-Sep-2025,Atorvastatin 20mg,Cardiovascular,2,2.87,  NHS Prescription 
+TXN10540,19-Oct-2025,Cetirizine 10mg,Allergy,1,1.31,OTC Sale
+TXN11083,2025-06-30,  Amoxicillin 250mg ,Antibiotics,1,3.48,  Private Prescription 
+TXN10784,2025-05-26,Atorvastatin 20mg,Cardiovascular,1,,NHS Prescription
+TXN10593,26-Sep-2025,SALBUTAMOL INHALER,Respiratory,2,£6.34,nhs prescription
+TXN10581,05/03/2025,Vitamin D 1000IU,supplements,1,£3.45,OTC Sale
+TXN10637,07-Aug-2025,Metformin 500mg,DIABETES,1,1.91,OTC Sale
+TXN10815,08/07/2025,Omeprazole 20mg,gastro,1,2.19,Private Prescription
+TXN11076,17-May-2025,Amoxicillin 250mg,Antibiotics,2,3.29,OTC Sale
+TXN10961,2025-02-11,Loratadine 10mg,allergy,1,£1.31,private prescription
+TXN10676,22-Nov-2025,Cetirizine 10mg,allergy,1,£1.26,NHS PRESCRIPTION
+TXN10524,2025-07-11,CETIRIZINE 10MG,Allergy,1,1.21,PRIVATE PRESCRIPTION
+TXN10514,16-Dec-2025,Metformin 500mg,  Diabetes ,3,2.02,NHS Prescription
+TXN10467,02/10/2025,Ibuprofen 200mg,Pain Relief,1,1.59,PRIVATE PRESCRIPTION
+TXN10988,16-Oct-2025,Vitamin D 1000IU,Supplements,1,£3.69,Private Prescription
+TXN10947,2025-04-27,Omeprazole 20mg,Gastro,1,2.12,private prescription
+TXN10909,2025-03-21,Vitamin D 1000IU,Supplements,3,3.81,nhs prescription
+TXN10610,2025-07-12,amoxicillin 250mg,Antibiotics,2,£3.07,NHS Prescription
+TXN10659,05-May-2025,SALBUTAMOL INHALER,Respiratory,2,6.31,NHS Prescription
+TXN10246,10-Jun-2025,Amoxicillin 250mg,Antibiotics,1,3.14,OTC Sale
+TXN11033,19-Feb-2025,metformin 500mg,Diabetes,2,1.81,OTC Sale
+TXN10685,01-Aug-2025,Paracetamol 500mg,Pain Relief,1,1.11,private prescription
+TXN10743,04-Sep-2025,METFORMIN 500MG,Diabetes,1,1.84,NHS Prescription
+TXN10666,10/04/2025,Metformin 500mg,Diabetes,2,2.08,NHS Prescription
+TXN10702,03/10/2025,LORATADINE 10MG,  Allergy ,3,1.29,  Private Prescription 
+TXN10911,22/10/2025,Vitamin D 1000IU,Supplements,1,£3.66,NHS Prescription
+TXN10987,04-Jun-2025,Paracetamol 500mg,Pain Relief,1,1.14,OTC Sale
+TXN11036,31/08/2025,Omeprazole 20mg,Gastro,1,£2.06,Private Prescription
+TXN10565,2025-06-19,amoxicillin 250mg,Antibiotics,2,3.33,OTC Sale
+TXN10721,09-Jun-2025,Vitamin D 1000IU,Supplements,1,3.49,Private Prescription
+TXN10859,28/09/2025,Paracetamol 500mg,Pain Relief,3,1.05,Private Prescription
+TXN11041,2025-08-31,Ibuprofen 200mg,  Pain Relief ,3,£1.51,NHS Prescription
+TXN10634,2025-08-08,loratadine 10mg,Allergy,2,1.29,Private Prescription
+TXN10617,07/11/2025,loratadine 10mg,Allergy,1,£1.36,NHS Prescription
+TXN10861,27/08/2025,Cetirizine 10mg,Allergy,3,£1.22,Private Prescription
+TXN10067,21-May-2025,Salbutamol Inhaler,Respiratory,1,£6.9,private prescription
+TXN10704,05/09/2025,Loratadine 10mg,allergy,1,£1.37,nhs prescription
+TXN11138,2025-07-21,metformin 500mg,Diabetes,1,1.91,Private Prescription
+TXN10547,14-Nov-2025,Salbutamol Inhaler,RESPIRATORY,1,£6.83,NHS Prescription
+TXN10215,2025-06-13,Paracetamol 500mg,Pain Relief,1,£1.17,otc sale
+TXN10544,2025-10-31,Paracetamol 500mg,Pain Relief,3,1.09,OTC Sale
+TXN10942,18/04/2025,Omeprazole 20mg,Gastro,2,£2.19,OTC Sale
+TXN10437,23-Aug-2025,Amoxicillin 250mg,  Antibiotics ,1,3.3,OTC Sale
+TXN10268,30-Dec-2025,Loratadine 10mg,Allergy,2,1.35,NHS Prescription
+TXN11047,04/09/2025,Ibuprofen 200mg,Pain Relief,2,£1.45,OTC Sale
+TXN10368,29-Jan-2025,  Amoxicillin 250mg ,ANTIBIOTICS,1,3.06,  OTC Sale 
+TXN10686,2025-01-27,Salbutamol Inhaler,Respiratory,1,6.56,OTC SALE
+TXN11048,2025-02-02,Ibuprofen 200mg,Pain Relief,1,1.55,PRIVATE PRESCRIPTION
+TXN10891,22/05/2025,omeprazole 20mg,Gastro,2,2.22,Private Prescription
+TXN10285,2025-06-18,Atorvastatin 20mg,  Cardiovascular ,2,2.72,OTC Sale
+TXN10176,28/11/2025,Loratadine 10mg,Allergy,2,£1.43,otc sale
+TXN10353,15-Oct-2025,atorvastatin 20mg,Cardiovascular,1,2.79,  OTC Sale 
+TXN10949,2025-04-22,Amoxicillin 250mg,Antibiotics,1,£3.17,Private Prescription
+TXN10827,07-Jan-2025,Metformin 500mg,diabetes,1,1.93,OTC Sale
+TXN10913,2025-10-05,Vitamin D 1000IU,Supplements,2,£3.61,Private Prescription
+TXN10293,2025-12-05,ibuprofen 200mg,Pain Relief,1,1.4,OTC Sale
+TXN10517,12/04/2025,Salbutamol Inhaler,respiratory,1,6.56,Private Prescription
+TXN10985,05-Feb-2025,Atorvastatin 20mg,,1,2.9,private prescription
+TXN10451,2025-08-09,ATORVASTATIN 20MG,CARDIOVASCULAR,1,2.94,NHS Prescription
+TXN10982,2025-12-14,Paracetamol 500mg,Pain Relief,4,£1.1,OTC Sale
+TXN10309,28/05/2025,Omeprazole 20mg,Gastro,1,2.1,OTC Sale
+TXN10070,23-Jun-2025,Cetirizine 10mg,Allergy,1,£1.33,PRIVATE PRESCRIPTION
+TXN10527,26/03/2025,Ibuprofen 200mg,Pain Relief,1,1.53,OTC Sale
+TXN11013,11/10/2025,Atorvastatin 20mg,  Cardiovascular ,2,£3.05,NHS Prescription
+TXN10758,10/06/2025,Omeprazole 20mg,Gastro,2,2.24,OTC SALE
+TXN10649,2025-04-07,VITAMIN D 1000IU,Supplements,1,3.56,Private Prescription
+TXN10716,2025-11-24,Salbutamol Inhaler,respiratory,4,6.84,Private Prescription
+TXN10036,05-Nov-2025,Metformin 500mg,diabetes,1,£1.94,OTC Sale
+TXN10832,24-Jul-2025,Amoxicillin 250mg,Antibiotics,1,3.41,OTC SALE
+TXN11079,28/01/2025,Amoxicillin 250mg,Antibiotics,1,£3.42,Private Prescription
+TXN11040,11-Apr-2025,Vitamin D 1000IU,Supplements,2,3.35,Private Prescription
+TXN10338,12/11/2025,Paracetamol 500mg,Pain Relief,1,£1.18,OTC Sale
+TXN10938,06/01/2025,Vitamin D 1000IU,Supplements,1,£3.8,Private Prescription
+TXN11134,25/07/2025,Metformin 500mg,Diabetes,1,2.02,OTC Sale
+TXN10273,24/03/2025,amoxicillin 250mg,ANTIBIOTICS,-2,3.26,  OTC Sale 
+TXN10148,25-Jul-2025,Paracetamol 500mg,Pain Relief,1,£1.19,OTC Sale
+TXN11023,2025-05-22,Salbutamol Inhaler,Respiratory,1,£6.19,Private Prescription
+TXN10558,2025-04-23,Omeprazole 20mg,Gastro,1,2.06,  NHS Prescription 
+TXN10736,2025-11-19,Paracetamol 500mg,Pain Relief,1,£1.07,OTC Sale
+TXN10902,19-Jun-2025,Cetirizine 10mg,Allergy,1,£1.36,Private Prescription
+TXN10235,2025-09-06,Salbutamol Inhaler,Respiratory,3,£6.68,nhs prescription
+TXN10955,22/05/2025,Omeprazole 20mg,Gastro,1,£2.14,Private Prescription
+TXN10623,21-Mar-2025,Metformin 500mg,Diabetes,1,£2.01,private prescription
+TXN10989,04-Feb-2025,Salbutamol Inhaler,Respiratory,1,6.82,otc sale
+TXN10033,07/08/2025,Metformin 500mg,Diabetes,1,2.05,PRIVATE PRESCRIPTION
+TXN11186,21/10/2025,CETIRIZINE 10MG,Allergy,1,£1.32,OTC Sale
+TXN10917,2025-07-29,  Cetirizine 10mg ,,1,1.24,PRIVATE PRESCRIPTION
+TXN10833,12/03/2025,Omeprazole 20mg,Gastro,2,2.18,PRIVATE PRESCRIPTION
+TXN10336,23/01/2025,Ibuprofen 200mg,Pain Relief,1,£1.4,PRIVATE PRESCRIPTION
+TXN10261,19-Jan-2025,  Salbutamol Inhaler ,respiratory,1,6.95,Private Prescription
+TXN10042,29-Dec-2025,Atorvastatin 20mg,Cardiovascular,1,£3.07,NHS Prescription
+TXN10252,2025-03-02,Vitamin D 1000IU,Supplements,1,£3.43,OTC Sale
+TXN10396,2025-10-01,Loratadine 10mg,  Allergy ,1,1.33,OTC Sale
+TXN10802,09-Apr-2025,ibuprofen 200mg,pain relief,1,£1.42,  NHS Prescription 
+TXN10621,13-Jul-2025,Omeprazole 20mg,Gastro,2,2.16,  OTC Sale 
+TXN11016,2025-10-23,VITAMIN D 1000IU,,2,3.54,PRIVATE PRESCRIPTION
+TXN11162,27/09/2025,Atorvastatin 20mg,Cardiovascular,2,2.96,OTC Sale
+TXN10062,2025-01-08,Atorvastatin 20mg,Cardiovascular,1,2.72,OTC Sale
+TXN10555,08-Apr-2025,amoxicillin 250mg,,1,3.19,  OTC Sale 
+TXN11132,06-Nov-2025,  Paracetamol 500mg ,Pain Relief,2,1.21,OTC Sale
+TXN10012,28-Apr-2025,Paracetamol 500mg,Pain Relief,3,£1.06,NHS Prescription
+TXN10731,2025-07-19,Metformin 500mg,DIABETES,1,1.91,PRIVATE PRESCRIPTION
+TXN10362,2025-05-30,  Omeprazole 20mg ,Gastro,1,2.26,OTC Sale
+TXN10486,2025-11-02,Salbutamol Inhaler,Respiratory,1,6.23,OTC Sale
+TXN10074,17-Jan-2025,Cetirizine 10mg,Allergy,1,£1.23,NHS Prescription
+TXN10844,27-Apr-2025,METFORMIN 500MG,Diabetes,1,1.98,NHS Prescription
+TXN10701,25/11/2025,ATORVASTATIN 20MG,Cardiovascular,2,£2.7,nhs prescription
+TXN10388,03-Nov-2025,Ibuprofen 200mg,Pain Relief,2,£1.56,OTC Sale
+TXN10551,21/06/2025,Vitamin D 1000IU,Supplements,1,3.38,nhs prescription
+TXN10568,2025-06-08,Omeprazole 20mg,Gastro,2,,NHS Prescription
+TXN10196,2025-03-09,Loratadine 10mg,ALLERGY,3,1.31,NHS Prescription
+TXN10031,2025-08-22,ibuprofen 200mg,PAIN RELIEF,3,£1.53,NHS Prescription
+TXN10173,03-Dec-2025,Omeprazole 20mg,Gastro,1,2.01,  NHS Prescription 
+TXN10501,22-Jul-2025,Paracetamol 500mg,Pain Relief,1,1.12,Private Prescription
+TXN10170,21-Jul-2025,Cetirizine 10mg,,1,1.3,NHS Prescription
+TXN10760,2025-04-10,cetirizine 10mg,Allergy,1,1.23,Private Prescription
+TXN10694,21-Jul-2025,Cetirizine 10mg,Allergy,1,1.25,OTC SALE
+TXN10656,17-Jul-2025,Amoxicillin 250mg,Antibiotics,1,3.37,Private Prescription
+TXN10660,02/09/2025,IBUPROFEN 200MG,Pain Relief,3,£1.46,NHS Prescription
+TXN10300,29-Jul-2025,Loratadine 10mg,  Allergy ,1,£1.35,Private Prescription
+TXN11196,17/05/2025,Paracetamol 500mg,Pain Relief,1,1.06,otc sale
+TXN10248,09/06/2025,  Loratadine 10mg ,Allergy,1,£1.29,OTC Sale
+TXN10211,24/04/2025,Paracetamol 500mg,Pain Relief,1,1.16,OTC Sale
+TXN11019,24-Nov-2025,Amoxicillin 250mg,  Antibiotics ,1,£3.26,NHS Prescription
+TXN10407,22/04/2025,SALBUTAMOL INHALER,Respiratory,,£6.87,OTC Sale
+TXN10792,2025-04-26,Metformin 500mg,Diabetes,2,1.88,OTC Sale
+TXN10448,25/05/2025,metformin 500mg,diabetes,2,£2.07,OTC Sale
+TXN10461,2025-10-07,Metformin 500mg,Diabetes,4,1.93,OTC Sale
+TXN10086,26/02/2025,Salbutamol Inhaler,RESPIRATORY,2,£6.69,NHS Prescription
+TXN10835,16/04/2025,Paracetamol 500mg,PAIN RELIEF,1,1.14,nhs prescription
+TXN10751,2025-08-26,Metformin 500mg,diabetes,1,£1.95,OTC Sale
+TXN10635,08-Dec-2025,Omeprazole 20mg,Gastro,1,2.25,NHS PRESCRIPTION
+TXN10698,2025-12-16,SALBUTAMOL INHALER,RESPIRATORY,1,6.37,OTC Sale
+TXN10503,08/04/2025,Metformin 500mg,Diabetes,1,,Private Prescription
+TXN10748,28/02/2025,ATORVASTATIN 20MG,Cardiovascular,,£2.78,PRIVATE PRESCRIPTION
+TXN10754,14/08/2025,Ibuprofen 200mg,Pain Relief,1,1.43,nhs prescription
+TXN10783,09/06/2025,  Vitamin D 1000IU ,Supplements,1,3.48,Private Prescription
+TXN10629,2025-11-26,CETIRIZINE 10MG,,2,1.27,NHS PRESCRIPTION
+TXN10550,28/01/2025,Metformin 500mg,Diabetes,1,£1.99,Private Prescription
+TXN10788,07/03/2025,SALBUTAMOL INHALER,respiratory,1,6.34,OTC Sale
+TXN11026,01-Nov-2025,  Cetirizine 10mg ,Allergy,1,£1.28,PRIVATE PRESCRIPTION
+TXN10458,13-Sep-2025,Salbutamol Inhaler,Respiratory,2,6.75,  OTC Sale 
+TXN10730,2025-08-16,  Vitamin D 1000IU ,Supplements,3,3.4,Private Prescription
+TXN10157,04/01/2025,Paracetamol 500mg,Pain Relief,1,£1.06,Private Prescription
+TXN11158,21/03/2025,Amoxicillin 250mg,Antibiotics,4,3.14,  OTC Sale 
+TXN10143,26-Oct-2025,Omeprazole 20mg,Gastro,1,2.25,NHS Prescription
+TXN11096,27-Jul-2025,AMOXICILLIN 250MG,Antibiotics,1,3.46,Private Prescription
+TXN10078,2025-01-23,Vitamin D 1000IU,SUPPLEMENTS,1,£3.83,NHS Prescription
+TXN11112,16-Jun-2025,OMEPRAZOLE 20MG,Gastro,2,2.2,NHS Prescription
+TXN10201,19/09/2025,Atorvastatin 20mg,CARDIOVASCULAR,1,,nhs prescription
+TXN10149,04-Jun-2025,Omeprazole 20mg,Gastro,4,£2.13,PRIVATE PRESCRIPTION
+TXN10757,2025-11-07,Loratadine 10mg,ALLERGY,1,1.36,NHS PRESCRIPTION
+TXN10346,17/08/2025,SALBUTAMOL INHALER,Respiratory,1,6.6,NHS Prescription
+TXN10478,02-Jun-2025,Omeprazole 20mg,,3,£2.13,Private Prescription
+TXN10667,02/09/2025,Salbutamol Inhaler,Respiratory,3,6.33,OTC SALE
+TXN10292,2025-06-26,loratadine 10mg,Allergy,2,1.24,Private Prescription
+TXN10376,23-Jun-2025,PARACETAMOL 500MG,  Pain Relief ,2,£1.14,Private Prescription
+TXN11149,21/12/2025,IBUPROFEN 200MG,Pain Relief,4,£1.58,NHS PRESCRIPTION
+TXN10312,2025-01-28,Amoxicillin 250mg,Antibiotics,2,3.3,Private Prescription
+TXN10260,2025-11-26,METFORMIN 500MG,  Diabetes ,1,1.94,NHS PRESCRIPTION
+TXN10139,2025-12-09,Salbutamol Inhaler,  Respiratory ,1,£6.49,OTC SALE
+TXN10692,04/03/2025,Cetirizine 10mg,allergy,2,1.28,OTC Sale
+TXN10032,01/04/2025,Omeprazole 20mg,Gastro,1,£2.28,Private Prescription
+TXN10048,03/09/2025,Atorvastatin 20mg,CARDIOVASCULAR,1,2.77,NHS Prescription
+TXN10274,09-Oct-2025,VITAMIN D 1000IU,Supplements,1,3.6,NHS Prescription
+TXN10924,2025-03-03,Vitamin D 1000IU,  Supplements ,2,£3.61,otc sale
+TXN10996,2025-06-05,Loratadine 10mg,Allergy,2,1.4,OTC Sale
+TXN11027,12/10/2025,Amoxicillin 250mg,Antibiotics,2,3.5,OTC Sale
+TXN11170,19-Jan-2025,omeprazole 20mg,Gastro,1,2.1,NHS Prescription
+TXN10899,2025-09-17,Ibuprofen 200mg,Pain Relief,1,£1.56,OTC Sale
+TXN10332,27-Nov-2025,Loratadine 10mg,Allergy,2,£1.26,OTC Sale
+TXN11001,02-Jan-2025,Salbutamol Inhaler,Respiratory,1,7.08,Private Prescription
+TXN10238,13-Dec-2025,OMEPRAZOLE 20MG,Gastro,1,,Private Prescription
+TXN10769,08/12/2025,Omeprazole 20mg,,1,2.26,NHS PRESCRIPTION
+TXN10711,2025-12-25,Metformin 500mg,Diabetes,1,£2.06,OTC Sale
+TXN11192,03/10/2025,Paracetamol 500mg,Pain Relief,2,1.2,NHS Prescription
+TXN10687,20/07/2025,VITAMIN D 1000IU,Supplements,3,,OTC Sale
+TXN11111,31/08/2025,Metformin 500mg,diabetes,1,2.02,NHS Prescription
+TXN10977,2025-10-21,Amoxicillin 250mg,Antibiotics,4,£3.44,Private Prescription
+TXN10317,2025-04-12,Vitamin D 1000IU,Supplements,1,3.42,  OTC Sale 
+TXN10179,30/03/2025,  Vitamin D 1000IU ,SUPPLEMENTS,2,£3.65,Private Prescription
+TXN10526,08-Dec-2025,Atorvastatin 20mg,Cardiovascular,1,2.7,Private Prescription
+TXN10271,02-Aug-2025,Salbutamol Inhaler,Respiratory,1,£6.19,OTC Sale
+TXN11199,19/03/2025,Cetirizine 10mg,Allergy,1,£1.25,OTC Sale
+TXN10172,26/10/2025,Atorvastatin 20mg,Cardiovascular,1,3.03,NHS PRESCRIPTION
+TXN10650,07-Jan-2025,Ibuprofen 200mg,PAIN RELIEF,3,£1.55,Private Prescription
+TXN10838,2025-03-16,Ibuprofen 200mg,Pain Relief,2,1.55,NHS Prescription
+TXN11030,12/02/2025,Ibuprofen 200mg,Pain Relief,-2,1.5,private prescription
+TXN10567,2025-08-21,ibuprofen 200mg,Pain Relief,1,1.45,NHS PRESCRIPTION
+TXN10472,2025-08-05,Salbutamol Inhaler,Respiratory,3,£6.44,NHS PRESCRIPTION
+TXN10049,13/02/2025,Cetirizine 10mg,Allergy,1,1.3,  Private Prescription 
+TXN10545,2025-11-17,Ibuprofen 200mg,Pain Relief,1,£1.39,  NHS Prescription 
+TXN11082,26/03/2025,Loratadine 10mg,Allergy,1,1.27,OTC SALE
+TXN10887,12-Feb-2025,Loratadine 10mg,Allergy,1,1.28,OTC Sale
+TXN11182,2025-01-13,Omeprazole 20mg,Gastro,1,2.16,OTC SALE
+TXN10946,2025-12-24,Loratadine 10mg,Allergy,2,1.35,Private Prescription
+TXN10984,06/11/2025,Omeprazole 20mg,Gastro,1,2.24,NHS Prescription
+TXN10713,18/10/2025,Paracetamol 500mg,Pain Relief,4,£1.13,Private Prescription
+TXN10354,17-Nov-2025,Paracetamol 500mg,Pain Relief,3,£1.18,OTC Sale
+TXN10440,12/06/2025,Atorvastatin 20mg,Cardiovascular,,£3.04,Private Prescription
+TXN10233,13-Nov-2025,amoxicillin 250mg,Antibiotics,2,,  Private Prescription 
+TXN10350,06-Jun-2025,Ibuprofen 200mg,Pain Relief,1,£1.54,OTC Sale
+TXN10490,2025-08-29,PARACETAMOL 500MG,Pain Relief,1,1.06,OTC Sale
+TXN10905,16/02/2025,Atorvastatin 20mg,Cardiovascular,1,2.81,OTC SALE
+TXN10777,15-Jan-2025,Omeprazole 20mg,  Gastro ,1,2.26,  Private Prescription 
+TXN10753,2025-04-02,Cetirizine 10mg,Allergy,1,1.27,OTC Sale
+TXN10234,2025-12-23,Atorvastatin 20mg,Cardiovascular,1,2.72,private prescription
+TXN10998,03-May-2025,Loratadine 10mg,Allergy,1,£1.27,NHS Prescription
+TXN10541,21-May-2025,  Metformin 500mg ,Diabetes,2,2.08,OTC SALE
+TXN10208,12-Jun-2025,LORATADINE 10MG,Allergy,1,1.27,Private Prescription
+TXN10054,2025-12-11,Paracetamol 500mg,Pain Relief,1,1.07,NHS Prescription
+TXN10952,2025-10-17,Loratadine 10mg,Allergy,1,£1.32,Private Prescription
+TXN10941,17/11/2025,Vitamin D 1000IU,Supplements,2,3.67,NHS PRESCRIPTION
+TXN10113,07/07/2025,Metformin 500mg,Diabetes,1,£2.08,private prescription
+TXN10747,2025-09-06,Vitamin D 1000IU,Supplements,1,3.77,NHS Prescription
+TXN10150,2025-11-26,Loratadine 10mg,Allergy,1,1.37,OTC SALE
+TXN10077,29/10/2025,Omeprazole 20mg,Gastro,1,2.03,otc sale
+TXN10435,13-Nov-2025,Amoxicillin 250mg,antibiotics,2,3.51,OTC SALE
+TXN10831,19-Nov-2025,Loratadine 10mg,Allergy,2,1.36,private prescription
+TXN11059,27/07/2025,Amoxicillin 250mg,Antibiotics,,3.17,otc sale
+TXN10168,11-Apr-2025,Vitamin D 1000IU,Supplements,1,£3.82,OTC Sale
+TXN10873,10/09/2025,Atorvastatin 20mg,Cardiovascular,1,2.71,nhs prescription
+TXN10269,2025-07-15,Paracetamol 500mg,PAIN RELIEF,1,1.09,OTC SALE
+TXN10811,2025-11-02,Cetirizine 10mg,ALLERGY,1,£1.33,Private Prescription
+TXN10809,06-Apr-2025,Ibuprofen 200mg,Pain Relief,1,£1.42,Private Prescription
+TXN10735,2025-07-13,Atorvastatin 20mg,Cardiovascular,4,£2.74,NHS PRESCRIPTION
+TXN10138,28-Nov-2025,Atorvastatin 20mg,Cardiovascular,2,£2.8,OTC Sale
+TXN10456,2025-08-08,cetirizine 10mg,Allergy,3,1.34,OTC Sale
+TXN10279,14/02/2025,Paracetamol 500mg,Pain Relief,1,1.14,Private Prescription
+TXN10821,22/11/2025,cetirizine 10mg,ALLERGY,1,1.19,Private Prescription
+TXN10966,15/04/2025,salbutamol inhaler,Respiratory,1,6.28,OTC Sale
+TXN10013,08-Apr-2025,SALBUTAMOL INHALER,Respiratory,1,6.59,nhs prescription
+TXN10918,06-Feb-2025,Omeprazole 20mg,  Gastro ,1,£2.24,  Private Prescription 
+TXN10804,2025-01-06,Amoxicillin 250mg,Antibiotics,2,3.46,  NHS Prescription 
+TXN10953,24-Jun-2025,Metformin 500mg,Diabetes,2,2.06,NHS Prescription
+TXN10454,2025-07-07,Atorvastatin 20mg,Cardiovascular,1,2.71,PRIVATE PRESCRIPTION
+TXN11085,06-May-2025,CETIRIZINE 10MG,ALLERGY,1,1.26,otc sale
+TXN10964,26/10/2025,Omeprazole 20mg,GASTRO,1,£2.18,Private Prescription
+TXN10903,11-Nov-2025,Ibuprofen 200mg,Pain Relief,1,£1.54,OTC SALE
+TXN10609,23/08/2025,cetirizine 10mg,allergy,1,£1.32,OTC SALE
+TXN10591,11-Feb-2025,  Vitamin D 1000IU ,Supplements,3,3.41,Private Prescription
+TXN10177,22/07/2025,Salbutamol Inhaler,Respiratory,2,6.61,NHS Prescription
+TXN10081,16-Feb-2025,IBUPROFEN 200MG,Pain Relief,1,1.54,OTC Sale
+TXN10895,2025-03-10,Salbutamol Inhaler,Respiratory,1,6.97,NHS Prescription
+TXN10200,27/03/2025,Cetirizine 10mg,Allergy,1,1.24,OTC SALE
+TXN10130,30/07/2025,Omeprazole 20mg,Gastro,2,2.27,  Private Prescription 
+TXN10572,29-Jul-2025,Loratadine 10mg,Allergy,1,£1.24,PRIVATE PRESCRIPTION
+TXN10506,31/08/2025,salbutamol inhaler,Respiratory,1,6.51,OTC Sale
+TXN10728,16-Mar-2025,Salbutamol Inhaler,Respiratory,1,£6.9,OTC Sale
+TXN10492,07-May-2025,IBUPROFEN 200MG,Pain Relief,2,1.38,NHS PRESCRIPTION
+TXN10405,2025-05-10,Amoxicillin 250mg,Antibiotics,1,3.35,  NHS Prescription 
+TXN11050,18/07/2025,Atorvastatin 20mg,,2,2.68,Private Prescription
+TXN11028,05/05/2025,Ibuprofen 200mg,pain relief,2,1.52,PRIVATE PRESCRIPTION
+TXN10485,01/05/2025,CETIRIZINE 10MG,Allergy,1,1.3,OTC Sale
+TXN11042,2025-05-11,vitamin d 1000iu,,1,3.35,Private Prescription
+TXN11093,2025-04-26,Paracetamol 500mg,Pain Relief,1,£1.13,OTC Sale
+TXN10549,2025-06-09,  Loratadine 10mg ,Allergy,3,£1.26,NHS Prescription
+TXN10926,08-Jul-2025,Amoxicillin 250mg,ANTIBIOTICS,1,3.06,Private Prescription
+TXN10778,2025-05-18,paracetamol 500mg,Pain Relief,2,£1.18,OTC Sale
+TXN10006,27-Oct-2025,Cetirizine 10mg,Allergy,3,1.23,OTC Sale
+TXN10061,2025-12-28,Atorvastatin 20mg,Cardiovascular,1,3.0,PRIVATE PRESCRIPTION
+TXN10397,2025-05-14,Vitamin D 1000IU,  Supplements ,2,3.63,  Private Prescription 
+TXN10654,2025-09-29,Salbutamol Inhaler,Respiratory,1,6.32,Private Prescription
+TXN11169,23/02/2025,Salbutamol Inhaler,Respiratory,3,£6.78,NHS Prescription
+TXN10816,2025-08-06,amoxicillin 250mg,Antibiotics,1,£3.43,Private Prescription
+TXN10546,03/02/2025,Salbutamol Inhaler,Respiratory,2,£6.46,Private Prescription
+TXN11142,14-May-2025,Cetirizine 10mg,Allergy,1,1.3,NHS PRESCRIPTION
+TXN11024,01/01/2025,Omeprazole 20mg,Gastro,1,2.22,Private Prescription
+TXN11027,12/10/2025,Amoxicillin 250mg,Antibiotics,2,3.5,OTC Sale
+TXN10515,05-Dec-2025,Paracetamol 500mg,Pain Relief,1,1.21,Private Prescription
+TXN10872,2025-10-02,Salbutamol Inhaler,Respiratory,1,£6.8,OTC Sale
+TXN10995,12/09/2025,Cetirizine 10mg,,1,£1.2,OTC Sale
+TXN10932,05-Jul-2025,ibuprofen 200mg,Pain Relief,3,1.56,NHS Prescription
+TXN10381,21-Sep-2025,Metformin 500mg,diabetes,1,£1.9,OTC Sale
+TXN10094,13-Feb-2025,Loratadine 10mg,Allergy,2,1.37,Private Prescription
+TXN11075,2025-08-31,AMOXICILLIN 250MG,antibiotics,1,3.3,NHS Prescription
+TXN11007,2025-08-12,Atorvastatin 20mg,Cardiovascular,1,£2.87,private prescription
+TXN10726,04-Jun-2025,amoxicillin 250mg,antibiotics,1,3.04,nhs prescription
+TXN10287,15/05/2025,Omeprazole 20mg,Gastro,1,2.0,Private Prescription
+TXN10181,2025-09-06,Paracetamol 500mg,Pain Relief,1,1.14,NHS Prescription
+TXN10080,2025-04-21,Metformin 500mg,  Diabetes ,1,1.9,OTC Sale
+TXN10106,23/01/2025,Atorvastatin 20mg,Cardiovascular,1,£2.97,PRIVATE PRESCRIPTION
+TXN10028,2025-06-10,Vitamin D 1000IU,Supplements,2,£3.48,Private Prescription
+TXN10399,2025-01-17,Metformin 500mg,Diabetes,4,1.97,nhs prescription
+TXN10068,14-Nov-2025,OMEPRAZOLE 20MG,GASTRO,2,2.2,Private Prescription
+TXN10627,17-Dec-2025,Metformin 500mg,Diabetes,1,1.85,NHS Prescription
+TXN10323,07/06/2025,Atorvastatin 20mg,CARDIOVASCULAR,1,2.66,  Private Prescription 
+TXN10782,19/05/2025,AMOXICILLIN 250MG,Antibiotics,1,3.38,private prescription
+TXN10137,05-Nov-2025,Vitamin D 1000IU,Supplements,3,3.56,NHS Prescription
+TXN10410,2025-05-29,Atorvastatin 20mg,Cardiovascular,1,3.07,OTC Sale
+TXN10318,27/03/2025,AMOXICILLIN 250MG,  Antibiotics ,2,3.34,OTC Sale
+TXN10970,2025-02-08,LORATADINE 10MG,Allergy,1,1.39,NHS Prescription
+TXN10979,26-Apr-2025,IBUPROFEN 200MG,Pain Relief,2,1.53,NHS Prescription
+TXN10876,27-Jul-2025,  Vitamin D 1000IU ,Supplements,4,3.46,Private Prescription
+TXN10925,10/11/2025,Atorvastatin 20mg,cardiovascular,1,2.85,Private Prescription
+TXN10370,10-Mar-2025,atorvastatin 20mg,Cardiovascular,2,2.88,NHS Prescription
+TXN10602,01-Oct-2025,Amoxicillin 250mg,Antibiotics,2,3.37,OTC Sale
+TXN10311,05-Oct-2025,Paracetamol 500mg,Pain Relief,2,1.1,NHS Prescription
+TXN10358,18-Oct-2025,Vitamin D 1000IU,Supplements,1,£3.69,NHS Prescription
+TXN10242,26-Oct-2025,Paracetamol 500mg,Pain Relief,2,1.16,OTC Sale
+TXN11094,18/12/2025,Cetirizine 10mg,allergy,1,1.23,OTC SALE
+TXN10328,06/02/2025,SALBUTAMOL INHALER,respiratory,1,7.0,OTC Sale
+TXN10871,28/07/2025,AMOXICILLIN 250MG,ANTIBIOTICS,1,£3.39,Private Prescription
+TXN10018,2025-04-15,Cetirizine 10mg,Allergy,,1.26,OTC Sale
+TXN10109,08/07/2025,Ibuprofen 200mg,Pain Relief,3,£1.57,OTC Sale
+TXN10468,2025-09-01,Metformin 500mg,diabetes,1,£1.99,Private Prescription
+TXN10710,20/07/2025,salbutamol inhaler,Respiratory,1,£7.03,NHS PRESCRIPTION
+TXN10684,31/07/2025,Atorvastatin 20mg,Cardiovascular,2,£2.66,Private Prescription
+TXN10812,24/08/2025,amoxicillin 250mg,ANTIBIOTICS,2,£3.12,PRIVATE PRESCRIPTION
+TXN10222,17/08/2025,Loratadine 10mg,,1,£1.25,NHS Prescription
+TXN10110,2025-11-05,Salbutamol Inhaler,respiratory,1,6.25,OTC Sale
+TXN11181,2025-02-22,Atorvastatin 20mg,  Cardiovascular ,1,2.8,NHS PRESCRIPTION
+TXN10689,14-May-2025,Salbutamol Inhaler,Respiratory,1,£6.32,Private Prescription
+TXN10857,13-Oct-2025,Cetirizine 10mg,Allergy,2,1.21,nhs prescription
+TXN10377,02/05/2025,Atorvastatin 20mg,,1,£2.75,OTC SALE
+TXN11053,24-Jun-2025,  Cetirizine 10mg ,,4,1.26,OTC SALE
+TXN11135,2025-09-11,Atorvastatin 20mg,cardiovascular,1,2.72,otc sale
+TXN10828,2025-11-20,  Ibuprofen 200mg ,Pain Relief,1,1.42,otc sale
+TXN10528,15/09/2025,atorvastatin 20mg,Cardiovascular,1,£2.74,OTC Sale
+TXN10756,01/05/2025,Vitamin D 1000IU,Supplements,1,£3.38,PRIVATE PRESCRIPTION
+TXN10496,2025-09-20,LORATADINE 10MG,Allergy,1,1.33,NHS PRESCRIPTION
+TXN10267,2025-06-10,Metformin 500mg,Diabetes,2,£1.98,OTC Sale
+TXN10870,2025-07-06,Amoxicillin 250mg,Antibiotics,2,3.14,PRIVATE PRESCRIPTION
+TXN11062,08-Jul-2025,ibuprofen 200mg,pain relief,4,£1.49,otc sale
+TXN11136,26-Nov-2025,Paracetamol 500mg,Pain Relief,1,£1.11,Private Prescription
+TXN10393,2025-08-22,Salbutamol Inhaler,Respiratory,,6.62,otc sale
+TXN10452,2025-10-28,Omeprazole 20mg,gastro,1,2.02,NHS Prescription
+TXN10653,09/09/2025,Ibuprofen 200mg,Pain Relief,4,£1.59,otc sale
+TXN10631,06-Jul-2025,Cetirizine 10mg,Allergy,3,1.24,otc sale
+TXN10922,2025-02-02,METFORMIN 500MG,Diabetes,1,1.99,PRIVATE PRESCRIPTION
+TXN10059,2025-02-05,Amoxicillin 250mg,  Antibiotics ,2,3.2,Private Prescription
+TXN11131,01-Nov-2025,Atorvastatin 20mg,Cardiovascular,,£2.95,NHS Prescription
+TXN10907,04-Apr-2025,Atorvastatin 20mg,Cardiovascular,1,3.03,OTC SALE
+TXN11003,2025-12-18,Ibuprofen 200mg,  Pain Relief ,1,£1.5,OTC Sale
+TXN10745,2025-04-03,ATORVASTATIN 20MG,Cardiovascular,1,£2.94,otc sale
+TXN10867,27/02/2025,Metformin 500mg,Diabetes,1,1.92,private prescription
+TXN10644,01/06/2025,Omeprazole 20mg,  Gastro ,1,£2.01,NHS Prescription
+TXN10636,21/05/2025,Paracetamol 500mg,Pain Relief,3,£1.15,Private Prescription
+TXN10029,2025-11-12,Amoxicillin 250mg,Antibiotics,1,£3.04,OTC Sale
+TXN10331,22/01/2025,paracetamol 500mg,Pain Relief,2,£1.14,OTC SALE
+TXN11188,2025-02-20,salbutamol inhaler,Respiratory,1,6.22,OTC Sale
+TXN10892,13/09/2025,  Amoxicillin 250mg ,Antibiotics,1,3.4,OTC Sale
+TXN10669,2025-05-03,SALBUTAMOL INHALER,,4,7.11,NHS Prescription
+TXN10102,28/01/2025,  Salbutamol Inhaler ,Respiratory,1,£7.14,  NHS Prescription 
+TXN10840,24-Apr-2025,Paracetamol 500mg,Pain Relief,1,1.1,OTC SALE
+TXN11018,2025-07-22,Cetirizine 10mg,Allergy,1,£1.36,nhs prescription
+TXN10883,2025-03-13,CETIRIZINE 10MG,Allergy,1,£1.36,OTC SALE
+TXN10890,2025-04-21,Paracetamol 500mg,Pain Relief,1,£1.1,Private Prescription
+TXN10561,04-Jun-2025,Cetirizine 10mg,ALLERGY,2,£1.3,Private Prescription
+TXN10768,2025-05-23,  Metformin 500mg ,Diabetes,3,£1.9,OTC Sale
+TXN10770,09/07/2025,Paracetamol 500mg,PAIN RELIEF,1,1.12,Private Prescription
+TXN10600,20-Oct-2025,Metformin 500mg,Diabetes,1,1.83,otc sale
+TXN10096,2025-06-08,Loratadine 10mg,Allergy,2,1.35,OTC Sale
+TXN10366,17-Aug-2025,Cetirizine 10mg,,2,£1.21,NHS Prescription
+TXN10512,2025-11-28,Amoxicillin 250mg,,1,3.45,Private Prescription
+TXN11086,09-Jul-2025,LORATADINE 10MG,Allergy,1,1.27,Private Prescription
+TXN10611,06/05/2025,Salbutamol Inhaler,Respiratory,1,6.47,Private Prescription
+TXN10278,17-Dec-2025,Omeprazole 20mg,Gastro,2,2.26,Private Prescription
+TXN10616,29-Mar-2025,Metformin 500mg,Diabetes,4,£1.88,Private Prescription
+TXN10050,2025-01-31,Vitamin D 1000IU,supplements,4,,Private Prescription
+TXN11160,2025-11-27,atorvastatin 20mg,,2,2.75,OTC Sale
+TXN10015,2025-03-27,OMEPRAZOLE 20MG,Gastro,1,£2.12,OTC Sale
+TXN10994,20-Jul-2025,Loratadine 10mg,Allergy,2,£1.38,NHS Prescription
+TXN10776,16/06/2025,Atorvastatin 20mg,CARDIOVASCULAR,2,£2.86,Private Prescription
+TXN10114,27-May-2025,Vitamin D 1000IU,Supplements,1,£3.36,Private Prescription
+TXN10762,07-Nov-2025,Amoxicillin 250mg,Antibiotics,2,3.1,PRIVATE PRESCRIPTION
+TXN10671,05-Mar-2025,Amoxicillin 250mg,Antibiotics,1,3.18,PRIVATE PRESCRIPTION
+TXN10532,10-Jan-2025,Omeprazole 20mg,Gastro,1,2.03,NHS Prescription
+TXN11054,2025-09-26,  Amoxicillin 250mg ,Antibiotics,1,3.09,  NHS Prescription 
+TXN10204,2025-01-05,Atorvastatin 20mg,Cardiovascular,1,2.79,OTC Sale
+TXN10257,2025-11-10,Loratadine 10mg,Allergy,3,1.38,PRIVATE PRESCRIPTION
+TXN10841,30/05/2025,Vitamin D 1000IU,Supplements,1,3.77,Private Prescription
+TXN11141,24-Feb-2025,  Metformin 500mg ,Diabetes,2,1.81,Private Prescription
+TXN10643,25-Jul-2025,SALBUTAMOL INHALER,Respiratory,1,£6.33,  Private Prescription 
+TXN10862,2025-10-22,salbutamol inhaler,Respiratory,1,£6.19,OTC Sale
+TXN10424,23-May-2025,atorvastatin 20mg,Cardiovascular,2,£2.76,Private Prescription
+TXN10808,01/09/2025,Amoxicillin 250mg,Antibiotics,1,3.31,Private Prescription
+TXN11101,07/02/2025,Amoxicillin 250mg,  Antibiotics ,1,£3.24,OTC SALE
+TXN10465,2025-02-28,Cetirizine 10mg,  Allergy ,1,1.19,Private Prescription
+TXN10126,13/10/2025,LORATADINE 10MG,Allergy,2,1.33,OTC SALE
+TXN10865,2025-01-14,Salbutamol Inhaler,Respiratory,3,£6.38,NHS Prescription
+TXN10160,01/12/2025,Ibuprofen 200mg,PAIN RELIEF,2,1.46,Private Prescription
+TXN10971,01-Sep-2025,Paracetamol 500mg,PAIN RELIEF,1,1.08,otc sale
+TXN10144,22/04/2025,Paracetamol 500mg,Pain Relief,1,1.16,NHS Prescription
+TXN10232,2025-02-21,Vitamin D 1000IU,Supplements,1,3.48,  NHS Prescription 
+TXN10719,2025-06-06,Atorvastatin 20mg,Cardiovascular,1,£2.66,NHS Prescription
+TXN10091,26-Aug-2025,Atorvastatin 20mg,Cardiovascular,2,3.05,Private Prescription
+TXN10781,22/02/2025,Metformin 500mg,DIABETES,1,£1.85,Private Prescription
+TXN10504,31-May-2025,Omeprazole 20mg,Gastro,2,£2.1,PRIVATE PRESCRIPTION
+TXN10739,01-Oct-2025,IBUPROFEN 200MG,PAIN RELIEF,1,£1.51,Private Prescription
+TXN10978,2025-04-27,Amoxicillin 250mg,Antibiotics,2,3.1,OTC Sale
+TXN10119,01-Oct-2025,Vitamin D 1000IU,Supplements,1,£3.82,NHS PRESCRIPTION
+TXN10369,21/10/2025,Vitamin D 1000IU,Supplements,1,3.63,OTC SALE
+TXN10276,2025-05-05,  Vitamin D 1000IU ,SUPPLEMENTS,2,3.81,OTC Sale
+TXN10254,2025-08-22,Omeprazole 20mg,Gastro,1,2.25,NHS PRESCRIPTION
+TXN10226,20-Mar-2025,Atorvastatin 20mg,cardiovascular,1,2.78,Private Prescription
+TXN10100,14/08/2025,Vitamin D 1000IU,SUPPLEMENTS,2,3.59,Private Prescription
+TXN10642,2025-05-29,Amoxicillin 250mg,Antibiotics,4,£3.51,OTC Sale
+TXN10534,2025-01-01,Amoxicillin 250mg,antibiotics,3,3.33,NHS Prescription
+TXN10696,2025-06-30,metformin 500mg,Diabetes,1,1.9,  NHS Prescription 
+TXN10670,10/06/2025,ATORVASTATIN 20MG,Cardiovascular,3,£2.78,Private Prescription
+TXN10184,2025-08-13,Ibuprofen 200mg,Pain Relief,2,1.55,NHS Prescription
+TXN10639,29/10/2025,Loratadine 10mg,Allergy,2,1.29,OTC Sale
+TXN10780,2025-03-22,Omeprazole 20mg,Gastro,1,£2.09,NHS Prescription
+TXN11037,19-Aug-2025,Loratadine 10mg,Allergy,2,1.37,NHS Prescription
+TXN10638,2025-08-30,Cetirizine 10mg,Allergy,3,1.22,NHS Prescription
+TXN10901,2025-05-22,Ibuprofen 200mg,Pain Relief,1,1.38,OTC Sale
+TXN11125,25/02/2025,METFORMIN 500MG,Diabetes,3,1.95,OTC Sale
+TXN10810,22-Jun-2025,VITAMIN D 1000IU,  Supplements ,2,3.83,NHS Prescription
+TXN10544,2025-10-31,Paracetamol 500mg,Pain Relief,3,1.09,OTC Sale
+TXN11168,2025-04-17,Ibuprofen 200mg,PAIN RELIEF,1,1.53,NHS PRESCRIPTION
+TXN10864,28/04/2025,Loratadine 10mg,,1,£1.32,NHS Prescription
+TXN11118,14-Jun-2025,Ibuprofen 200mg,Pain Relief,1,1.57,  OTC Sale 
+TXN10542,10/08/2025,Loratadine 10mg,  Allergy ,1,£1.33,NHS Prescription
+TXN10771,2025-05-15,Atorvastatin 20mg,cardiovascular,3,£2.97,  Private Prescription 
+TXN10807,17/04/2025,Cetirizine 10mg,allergy,2,1.34,OTC Sale
+TXN10378,2025-09-14,ATORVASTATIN 20MG,Cardiovascular,1,2.97,nhs prescription
+TXN10668,2025-09-14,Amoxicillin 250mg,Antibiotics,4,3.29,OTC Sale
+TXN10463,2025-01-29,Metformin 500mg,,1,1.91,Private Prescription
+TXN10214,08-May-2025,Metformin 500mg,Diabetes,4,£1.81,  Private Prescription 
+TXN11058,03/05/2025,Metformin 500mg,Diabetes,1,1.88,  OTC Sale 
+TXN10847,2025-08-15,Ibuprofen 200mg,Pain Relief,1,1.51,otc sale
+TXN10554,23-Jun-2025,Ibuprofen 200mg,Pain Relief,1,1.55,NHS Prescription
+TXN10906,2025-02-18,LORATADINE 10MG,Allergy,1,£1.24,NHS Prescription
+TXN10163,19/12/2025,Amoxicillin 250mg,Antibiotics,1,3.07,NHS Prescription
+TXN10556,17-Jun-2025,Amoxicillin 250mg,ANTIBIOTICS,1,3.46,nhs prescription
+TXN10198,02/10/2025,  Amoxicillin 250mg ,Antibiotics,1,3.44,PRIVATE PRESCRIPTION
+TXN10297,04-Nov-2025,VITAMIN D 1000IU,Supplements,3,£3.72,OTC Sale
+TXN11128,06-Oct-2025,VITAMIN D 1000IU,Supplements,1,3.85,NHS Prescription
+TXN10945,2025-02-03,AMOXICILLIN 250MG,Antibiotics,,3.39,  NHS Prescription 
+TXN11197,2025-05-26,Atorvastatin 20mg,Cardiovascular,3,£2.89,OTC Sale
+TXN10005,18-May-2025,Salbutamol Inhaler,Respiratory,1,£7.03,OTC Sale
+TXN11108,2025-11-03,Salbutamol Inhaler,Respiratory,2,6.92,OTC Sale
+TXN11167,10-Nov-2025,Paracetamol 500mg,Pain Relief,3,£1.21,NHS Prescription
+TXN10085,02/11/2025,  Vitamin D 1000IU ,Supplements,3,£3.72,OTC SALE
+TXN11119,2025-09-11,Paracetamol 500mg,Pain Relief,1,1.07,NHS Prescription
+TXN11102,2025-11-19,Loratadine 10mg,Allergy,2,£1.33,Private Prescription
+TXN10529,24-Jan-2025,  Vitamin D 1000IU ,SUPPLEMENTS,3,3.55,nhs prescription
+TXN10259,2025-10-13,Amoxicillin 250mg,Antibiotics,1,3.12,NHS Prescription
+TXN11056,17-Feb-2025,SALBUTAMOL INHALER,RESPIRATORY,1,£6.31,  NHS Prescription 
+TXN10133,2025-05-29,Amoxicillin 250mg,Antibiotics,1,3.21,PRIVATE PRESCRIPTION
+TXN10991,06-Jan-2025,Salbutamol Inhaler,Respiratory,1,6.28,Private Prescription
+TXN10962,27-Apr-2025,cetirizine 10mg,,1,1.19,NHS Prescription
+TXN10129,29-Mar-2025,atorvastatin 20mg,Cardiovascular,2,£3.01,private prescription
+TXN10823,2025-07-15,Ibuprofen 200mg,Pain Relief,4,1.58,NHS Prescription
+TXN10852,2025-04-28,Cetirizine 10mg,  Allergy ,1,£1.24,PRIVATE PRESCRIPTION
+TXN11161,2025-11-09,ATORVASTATIN 20MG,Cardiovascular,1,3.01,OTC Sale
+TXN10057,24/12/2025,  Atorvastatin 20mg ,,1,£2.92,NHS Prescription
+TXN10560,2025-07-03,Ibuprofen 200mg,PAIN RELIEF,1,£1.5,NHS Prescription
+TXN10592,25/02/2025,Ibuprofen 200mg,  Pain Relief ,1,£1.55,NHS PRESCRIPTION
+TXN10395,27-Aug-2025,Cetirizine 10mg,Allergy,1,1.2,OTC SALE
+TXN10064,15/01/2025,Cetirizine 10mg,Allergy,1,1.25,Private Prescription
+TXN10651,2025-04-14,Ibuprofen 200mg,Pain Relief,1,£1.47,NHS Prescription
+TXN10878,09/10/2025,Ibuprofen 200mg,pain relief,1,1.48,otc sale
+TXN10199,08-Nov-2025,VITAMIN D 1000IU,,1,£3.71,OTC Sale
+TXN10255,06-Dec-2025,AMOXICILLIN 250MG,antibiotics,1,3.25,Private Prescription
+TXN10536,2025-05-20,ATORVASTATIN 20MG,Cardiovascular,,2.75,NHS Prescription
+TXN10296,21/08/2025,Loratadine 10mg,Allergy,1,£1.31,NHS Prescription
+TXN11014,25-Jan-2025,Amoxicillin 250mg,Antibiotics,1,3.45,NHS Prescription
+TXN10618,07/03/2025,Cetirizine 10mg,  Allergy ,1,1.24,otc sale
+TXN10570,2025-11-10,Salbutamol Inhaler,Respiratory,1,6.78,NHS Prescription
+TXN10737,08-Apr-2025,Atorvastatin 20mg,Cardiovascular,1,2.81,OTC SALE
+TXN10339,17-Nov-2025,Vitamin D 1000IU,Supplements,1,3.72,NHS Prescription
+TXN10044,12-Oct-2025,Cetirizine 10mg,Allergy,1,1.23,  NHS Prescription 
+TXN10680,27-Mar-2025,Metformin 500mg,Diabetes,1,2.08,NHS Prescription
+TXN10820,24-Aug-2025,  Atorvastatin 20mg ,Cardiovascular,1,2.82,NHS Prescription
+TXN10193,05/01/2025,Vitamin D 1000IU,Supplements,2,3.7,NHS Prescription
+TXN11046,2025-03-04,Amoxicillin 250mg,Antibiotics,4,3.41,OTC Sale
+TXN11139,10/04/2025,  Omeprazole 20mg ,Gastro,4,£2.29,OTC Sale
+TXN10657,30-Sep-2025,Atorvastatin 20mg,cardiovascular,2,2.9,NHS Prescription
+TXN10521,2025-12-31,amoxicillin 250mg,Antibiotics,2,3.07,Private Prescription
+TXN10089,2025-02-15,Loratadine 10mg,allergy,2,1.35,OTC SALE
+TXN10509,02/07/2025,Cetirizine 10mg,allergy,1,£1.36,Private Prescription
+TXN10382,2025-01-15,amoxicillin 250mg,Antibiotics,3,£3.22,OTC Sale
+TXN10699,2025-01-11,  Vitamin D 1000IU ,Supplements,1,£3.63,NHS Prescription
+TXN10000,13-Jan-2025,IBUPROFEN 200MG,PAIN RELIEF,1,1.4,NHS Prescription
+TXN10529,24-Jan-2025,  Vitamin D 1000IU ,SUPPLEMENTS,3,3.55,nhs prescription
+TXN10973,2025-04-14,Atorvastatin 20mg,CARDIOVASCULAR,1,£3.03,OTC Sale
+TXN10436,09/07/2025,Cetirizine 10mg,allergy,1,1.31,Private Prescription
+TXN10476,23-May-2025,OMEPRAZOLE 20MG,Gastro,1,£2.25,otc sale
+TXN10221,12-Jun-2025,VITAMIN D 1000IU,  Supplements ,1,£3.82,OTC Sale
+TXN10834,2025-12-01,Vitamin D 1000IU,Supplements,1,£3.77,  NHS Prescription 
+TXN10418,13-Oct-2025,Paracetamol 500mg,Pain Relief,1,1.21,NHS Prescription
+TXN10334,2025-03-24,METFORMIN 500MG,Diabetes,1,,Private Prescription
+TXN10732,12-Jul-2025,Atorvastatin 20mg,Cardiovascular,2,2.96,OTC Sale
+TXN10508,20/12/2025,Cetirizine 10mg,Allergy,2,1.22,NHS Prescription
+TXN11029,07/09/2025,  Omeprazole 20mg ,gastro,3,2.06,Private Prescription
+TXN10231,14/02/2025,Ibuprofen 200mg,Pain Relief,1,1.56,NHS Prescription
+TXN10439,08/11/2025,PARACETAMOL 500MG,Pain Relief,1,1.17,OTC Sale
+TXN10151,2025-01-30,atorvastatin 20mg,Cardiovascular,1,£2.88,OTC Sale
+TXN10614,02-Oct-2025,METFORMIN 500MG,Diabetes,1,1.97,OTC Sale
+TXN10182,30-May-2025,Omeprazole 20mg,Gastro,1,2.05,OTC Sale
